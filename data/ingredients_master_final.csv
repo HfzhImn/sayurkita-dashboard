@@ -1,0 +1,1561 @@
+nama_id,frekuensi,kategori,umur_kulkas,umur_suhu_ruang,umur_freezer,kalori_per_100g,protein_g,lemak_g,karbo_g,karbon_co2e
+bawang putih,707,bumbu,30,14,0,95.0,4.5,0.2,23.1,1.165
+garam,590,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,0.363
+bawang merah,528,bumbu,30,14,0,39.0,1.5,0.3,0.2,0.715
+air,321,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+kecap,263,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+minyak,239,bumbu,365,90,0,0.0,0.0,0.0,0.0,2.808
+gula,211,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+jahe,204,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+daun bawang,186,bumbu,7,2,30,29.0,1.8,0.7,5.2,0.447
+tomat,183,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+daun salam,181,rempah,7,3,30,0.0,0.0,0.0,0.0,0.368
+daun jeruk,173,rempah,7,3,30,0.0,0.0,0.0,0.0,0.368
+bawang bombai,167,bumbu,14,7,0,45.0,1.4,0.2,10.3,0.715
+kunyit,164,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+serai,155,rempah,14,5,60,0.0,0.0,0.0,0.0,0.447
+kemiri,153,rempah,30,14,60,636.0,19.0,63.0,8.0,7.954
+lengkuas,151,rempah,14,7,60,0.0,0.0,0.0,0.0,1.076
+ketumbar,146,rempah,365,180,0,404.0,14.1,16.1,54.2,5.064
+lada,140,rempah,365,365,0,0.0,0.0,0.0,0.0,4.52
+cabe merah,137,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+telur,132,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+cabe rawit,120,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+gula pasir,117,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,2.393
+merica,112,rempah,365,365,0,359.0,11.5,6.8,64.4,4.52
+tempe,85,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+penyedap,80,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+wortel,79,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+merica bubuk,77,rempah,365,365,0,359.0,11.5,6.8,64.4,4.52
+udang,77,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+cabe merah keriting,67,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+kaldu bubuk,66,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+tepung terigu,63,karbohidrat,365,180,0,365.0,8.9,1.3,77.3,1.492
+cabe rawit merah,57,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+saus tiram,57,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+jeruk nipis,52,buah,14,3,0,37.0,0.8,0.1,12.3,0.565
+kentang,50,sayuran,14,7,90,83.0,2.0,0.1,19.1,0.442
+ayam,50,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+gula merah,49,bumbu,365,180,0,0.0,0.0,0.0,0.0,2.21
+telur ayam,49,protein_hewani,3,0,120,162.0,12.8,11.5,0.7,1.075
+pala,47,rempah,365,180,0,0.0,0.0,0.0,0.0,
+saos tiram,47,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+daging sapi,46,protein_hewani,3,0,120,207.0,18.8,14.0,0.0,69.927
+daging kambing,44,protein_hewani,3,0,120,154.0,16.6,9.2,0.0,38.779
+kayu,42,rempah,365,180,0,0.0,0.0,0.0,0.0,
+cengkeh,41,rempah,365,180,0,0.0,0.0,0.0,0.0,
+saus,41,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+tahu,39,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+tahu putih,38,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+minyak wijen,37,bumbu,365,180,0,902.0,0.0,100.0,0.0,5.809
+cabai merah,36,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+bawang,34,bumbu,30,14,0,102.9,3.3,2.7,16.3,
+kapulaga,34,rempah,365,180,0,0.0,0.0,0.0,0.0,
+cabe hijau,34,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+kol,30,sayuran,14,2,30,0.0,0.0,0.0,0.0,0.324
+jinten,29,rempah,365,180,0,0.0,0.0,0.0,0.0,
+saos,26,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+margarin,26,olahan,30,7,60,720.0,0.6,81.0,0.4,2.524
+tepung tapioka,25,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+tomat merah,25,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+buncis,24,sayuran,5,2,30,35.0,2.4,0.2,7.7,0.977
+gula garam,23,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+saus tomat,23,bumbu,30,7,0,98.0,2.0,0.4,24.5,1.903
+asam jawa,22,bumbu,180,90,0,0.0,0.0,0.0,0.0,1.509
+terasi,22,bumbu,30,14,0,155.0,22.3,2.9,9.9,1.61
+garam gula,22,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+seledri,21,bumbu,7,2,0,20.0,1.0,0.1,4.6,0.368
+minyak sayur,21,bumbu,365,90,0,0.0,0.0,0.0,0.0,2.808
+tepung maizena,20,karbohidrat,365,365,0,341.0,0.3,0.0,85.0,1.574
+cabe,19,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+tepung beras,19,karbohidrat,365,365,0,364.0,7.0,0.5,80.0,4.326
+tahu kuning,19,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+saos tomat,19,bumbu,30,7,0,98.0,2.0,0.4,24.5,1.903
+santan kara,17,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+royco,17,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+daun kunyit,16,rempah,7,3,30,63.0,2.0,2.7,9.1,0.368
+daun kemangi,16,bumbu,3,1,0,46.0,4.0,0.5,8.9,0.368
+cabe keriting,16,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+cabai rawit merah,16,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+laos,16,rempah,14,7,60,0.0,0.0,0.0,0.0,1.076
+putih telur,15,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+baking powder,15,bumbu,365,365,0,0.0,0.0,0.0,0.0,
+bunga lawang,15,rempah,365,180,0,0.0,0.0,0.0,0.0,
+cabai merah keriting,15,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+mentega,15,olahan,30,5,90,725.0,0.5,81.6,1.4,3.299
+daun seledri,14,bumbu,7,2,0,20.0,1.0,0.1,4.6,0.368
+sosis,14,olahan,7,1,60,0.0,0.0,0.0,0.0,2.08
+gula jawa,14,bumbu,365,180,0,0.0,0.0,0.0,0.0,2.21
+cabai rawit,14,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+kacang panjang,14,sayuran,5,2,30,44.0,2.7,0.3,7.8,0.857
+kaldu jamur,13,bumbu,365,180,0,0.0,0.0,0.0,0.0,0.321
+santan kental,13,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+cabe merah kriting,13,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+kencur,13,rempah,14,7,60,0.0,0.0,0.0,0.0,1.2
+santan,13,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+cabai hijau,13,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+kemangi,12,bumbu,3,1,0,48.0,1.0,0.2,11.9,0.368
+lada hitam,12,rempah,365,365,0,0.0,0.0,0.0,0.0,4.52
+nanas,11,buah,5,2,30,52.0,0.4,0.2,13.7,0.701
+margarine,10,olahan,30,7,60,720.0,0.6,81.0,0.4,2.524
+beras,10,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.309
+cabe rawit utuh,10,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kecap inggris,10,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+tauge,10,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,0.857
+garam kaldu bubuk,10,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kecap bango,10,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+kaldu ayam bubuk,10,bumbu,365,180,0,302.0,18.2,25.0,0.0,3.576
+bawang putih bubuk,10,bumbu,7,2,30,0.0,0.0,0.0,0.0,1.165
+cabe ijo,9,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+bubuk kari,9,rempah,365,180,0,0.0,0.0,0.0,0.0,5.064
+tomat hijau,9,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+pete,9,sayuran,7,3,30,0.0,0.0,0.0,0.0,1.311
+madu,9,bumbu,1825,1825,0,294.0,0.3,0.0,79.5,0.72
+bakso,9,olahan,5,1,60,0.0,0.0,0.0,0.0,3.739
+kecap ikan,9,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+dada ayam,9,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+keju cheddar,9,olahan,30,1,90,326.0,22.8,20.3,13.1,6.062
+sayap ayam,9,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.152
+royco ayam,9,bumbu,365,180,0,302.0,18.2,25.0,0.0,3.576
+iga sapi,8,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+tepung,8,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+wijen,8,rempah,180,90,0,568.0,19.3,51.1,18.1,7.46
+tepung sagu,8,karbohidrat,365,365,0,353.0,0.7,0.2,84.7,1.769
+telor,8,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+air jeruk nipis,8,buah,14,3,0,37.0,0.8,0.1,12.3,0.565
+ebi,8,protein_hewani,30,7,90,0.0,0.0,0.0,0.0,9.912
+daun pisang,8,olahan,3,1,14,0.0,0.0,0.0,0.0,0.842
+garam merica,8,rempah,365,365,0,359.0,11.5,6.8,64.4,
+masako,7,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+merica butiran,7,rempah,365,365,0,359.0,11.5,6.8,64.4,4.52
+maizena,7,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.574
+bombai,7,olahan,5,1,0,0.0,0.0,0.0,0.0,0.715
+royco sapi,7,bumbu,365,180,0,0.0,0.0,0.0,0.0,69.927
+telor ayam,7,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,1.075
+cabe rawit hijau,7,bumbu,5,2,30,0.0,0.0,0.0,0.0,
+tepung panir,7,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,2.302
+kuning telur,7,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+garam gula pasir,7,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+toge,7,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,0.857
+daging sapi kambing,7,protein_hewani,3,0,120,149.0,16.6,9.2,0.0,69.927
+tepung roti,7,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,2.302
+gula putih,7,bumbu,1825,1825,0,394.0,0.0,0.0,94.0,2.393
+terigu,6,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,1.492
+adas,6,rempah,365,180,0,0.0,0.0,0.0,0.0,
+tusuk sate,6,olahan,5,1,0,0.0,0.0,0.0,0.0,
+petai,6,sayuran,7,3,30,0.0,0.0,0.0,0.0,1.311
+susu cair,6,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+penyedap gula,6,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+air putih,6,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+brokoli,6,sayuran,5,1,0,0.0,0.0,0.0,0.0,0.539
+ladaku,6,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+saori,6,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+jinten bubuk,6,rempah,365,180,0,0.0,0.0,0.0,0.0,
+beras basmati,6,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.309
+daging ayam,6,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+keju,6,olahan,30,1,90,326.0,22.8,20.3,13.1,1.361
+kacang tanah,6,protein_nabati,180,60,0,535.0,27.8,38.1,28.8,3.33
+daging sapi giling,6,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,44.84
+telur puyuh,6,protein_hewani,14,7,0,0.0,0.0,0.0,0.0,1.075
+tapioka,6,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+cabai,6,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+saori saos tiram,6,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+iga kambing,6,protein_hewani,3,0,120,126.0,4.2,9.4,6.2,38.779
+emping,5,olahan,90,30,0,0.0,0.0,0.0,0.0,3.052
+jeruk limau,5,buah,14,3,0,0.0,0.0,0.0,0.0,0.611
+belimbing wuluh,5,buah,7,2,0,36.0,0.4,0.4,8.8,0.611
+cabe gendot,5,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+labu siam,5,sayuran,14,7,0,26.0,0.6,0.1,6.7,0.528
+kelapa,5,buah,7,3,30,0.0,0.0,0.0,0.0,6.639
+cabe rawit merah utuh,5,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daging ayam giling,5,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,6.284
+kaldu sapi bubuk,5,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kulit pangsit,5,karbohidrat,7,1,30,0.0,0.0,0.0,0.0,1.398
+daging,5,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+ikan nila,5,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+jagung,5,sayuran,3,1,90,0.0,0.0,0.0,0.0,0.565
+cabe rawit setan,5,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+garam merica bubuk,5,rempah,365,365,0,359.0,11.5,6.8,64.4,
+santan instan,5,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+ikan bandeng,5,protein_hewani,2,0,90,129.0,20.0,4.8,0.0,6.821
+cabe keriting merah,5,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+ikan patin,5,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+garam penyedap,5,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+daun serai,5,rempah,14,5,60,0.0,0.0,0.0,0.0,
+jamur kancing,5,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+sambel,4,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kayu bubuk,4,rempah,365,180,0,0.0,0.0,0.0,0.0,
+garam kaldu jamur,4,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+wortel korek api,4,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+tauco,4,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.511
+kaldu bubuk ayam,4,bumbu,365,180,0,302.0,18.2,25.0,0.0,3.576
+air kaldu ayam,4,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+garam lada,4,rempah,365,365,0,0.0,0.0,0.0,0.0,
+tahu kulit,4,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+kaldu ayam,4,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+kulit,4,olahan,5,1,0,0.0,0.0,0.0,0.0,
+teri medan,4,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.343
+cabai rawit setan,4,bumbu,7,2,30,120.0,4.7,2.4,19.9,
+air kaldu sapi,4,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kambing,4,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+sawi putih,4,sayuran,5,1,0,22.0,2.3,0.3,4.0,0.324
+ikan kembung,4,protein_hewani,2,0,90,103.0,22.0,1.0,0.0,2.016
+dada ayam fillet,4,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+tepung kanji tapioka,4,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+jeruk lemon,4,buah,14,3,0,0.0,0.0,0.0,0.0,0.616
+lengkoas,4,rempah,14,7,60,0.0,0.0,0.0,0.0,1.076
+ayam kampung,4,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+butter margarin,4,olahan,30,5,90,720.0,0.6,81.0,0.4,
+daging sapi has,4,protein_hewani,3,0,120,207.0,18.8,14.0,0.0,69.927
+sawi hijau,4,sayuran,5,1,0,22.0,2.3,0.3,4.0,0.324
+rawit merah,4,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+udang kepala,4,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+keping gula merah,4,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+lada kaldu bubuk,4,rempah,365,365,0,0.0,0.0,0.0,0.0,
+serai putihnya,4,rempah,14,5,60,0.0,0.0,0.0,0.0,
+kaldu bubuk sapi,4,bumbu,365,180,0,0.0,0.0,0.0,0.0,69.927
+cabai keriting,4,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+kaldu,4,olahan,5,1,0,0.0,0.0,0.0,0.0,
+gula kaldu jamur,4,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+bawang daun,4,bumbu,7,2,30,29.0,1.8,0.7,5.2,0.447
+tahu cina,4,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+daging sapi khas,3,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+daging kambing sapi,3,protein_hewani,3,0,120,149.0,16.6,9.2,0.0,69.927
+telur dadar,3,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+acar,3,olahan,7,1,0,0.0,0.0,0.0,0.0,2.88
+ikan tenggiri,3,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+gula lada,3,rempah,365,365,0,0.0,0.0,0.0,0.0,
+jamur kuping,3,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+jeruk limo,3,buah,14,3,0,0.0,0.0,0.0,0.0,0.611
+serei,3,rempah,14,5,60,0.0,0.0,0.0,0.0,0.447
+paha ayam,3,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.041
+cabai rawit merah utuh,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+minyak ayam,3,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+cabe kriting,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+salam,3,olahan,5,1,0,0.0,0.0,0.0,0.0,
+olive oil,3,bumbu,365,180,0,0.0,0.0,0.0,0.0,5.809
+ayam giling,3,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,6.284
+ikan tongkol,3,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+timun,3,sayuran,7,2,0,12.0,0.7,0.1,2.7,0.426
+gula aren,3,bumbu,365,180,0,368.0,0.0,0.0,95.0,2.21
+telur utuh,3,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+santan instan kara,3,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+daging kambing tulang,3,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+pekak,3,rempah,365,180,0,0.0,0.0,0.0,0.0,
+jengkol tua,3,sayuran,7,3,30,0.0,0.0,0.0,0.0,1.311
+pasta tomat,3,bumbu,30,7,0,0.0,0.0,0.0,0.0,2.432
+garam gula kaldu bubuk,3,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+gula pasir garam,3,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ikan tuna,3,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.696
+lombok merah,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+taoge,3,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,0.857
+gula pasir kaldu bubuk,3,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+cabai bubuk,3,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+tepung sasa,3,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+lombok,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+kulit lumpia,3,karbohidrat,7,1,30,0.0,0.0,0.0,0.0,1.398
+penyedap jamur,3,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+royko,3,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+hati sapi,3,protein_hewani,3,0,120,136.0,19.7,3.2,6.0,69.927
+rempah,3,rempah,365,180,0,0.0,0.0,0.0,0.0,
+kangkung,3,sayuran,3,1,0,29.0,3.0,0.3,5.4,0.324
+bubuk kunyit,3,rempah,365,180,0,63.0,2.0,2.7,9.1,5.064
+kunir,3,rempah,14,7,60,0.0,0.0,0.0,0.0,5.064
+ikan gabus,3,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+cabe merah tanjung,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+jamur,3,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+kubis,3,sayuran,14,2,30,0.0,0.0,0.0,0.0,0.324
+ayam fillet,3,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+bayam,3,sayuran,3,1,0,302.0,18.2,25.0,0.0,0.471
+pindang tongkol,3,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+daun bawang seledri,3,bumbu,7,2,30,20.0,1.0,0.1,4.6,
+cabe rawit suka,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+bawang pre,3,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.447
+bawang putih bubuk bawang putih,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,1.165
+rawit,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.656
+nasi putih,2,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+trasi,2,bumbu,30,14,0,155.0,22.3,2.9,9.9,1.61
+kare instan,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kari instan,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+gabus,2,olahan,5,1,0,0.0,0.0,0.0,0.0,7.681
+paprika merah,2,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+asam,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+pokcoy,2,sayuran,5,1,0,0.0,0.0,0.0,0.0,0.324
+santan kelapa,2,olahan,3,0,30,324.0,4.2,34.3,55.6,6.639
+laos lengkuas,2,rempah,14,7,60,0.0,0.0,0.0,0.0,
+perasan air lemon,2,buah,14,3,0,0.0,0.0,0.0,0.0,
+penyedap merica,2,rempah,365,365,0,359.0,11.5,6.8,64.4,
+daging sapi fresh,2,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+air perasan jeruk nipis,2,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+daun kunyit simpul,2,rempah,7,3,30,63.0,2.0,2.7,9.1,5.064
+sapi,2,olahan,5,1,0,0.0,0.0,0.0,0.0,69.927
+kecap shoyu,2,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+bread crumb,2,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,2.302
+ragout,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+cabe kriting merah,2,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+penyedap royco ayam,2,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+daun sledri,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+celup sariwangi,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+cabe merah giling,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+belimbing sayur,2,buah,7,2,0,36.0,0.4,0.4,8.8,0.611
+micin,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+sagu tani,2,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+cuka,2,bumbu,365,365,0,12.0,0.1,0.1,5.0,1.509
+sosis sapi,2,olahan,7,1,60,0.0,0.0,0.0,0.0,2.08
+pare,2,sayuran,7,2,0,0.0,0.0,0.0,0.0,0.606
+keju parmesan,2,olahan,30,1,90,326.0,22.8,20.3,13.1,5.96
+butter,2,olahan,30,5,90,0.0,0.0,0.0,0.0,3.299
+santan instant,2,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+lada butiran,2,rempah,365,365,0,0.0,0.0,0.0,0.0,
+ikan gurami,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+margarin butter,2,olahan,30,5,90,720.0,0.6,81.0,0.4,
+serai geprak,2,rempah,14,5,60,0.0,0.0,0.0,0.0,
+saus barbeque,2,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.915
+santan kekentalan,2,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+kornet sapi,2,olahan,5,1,60,0.0,0.0,0.0,0.0,4.369
+nasi,2,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,4.309
+minyak tempe,2,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+wortel super,2,sayuran,14,3,90,42.0,1.2,0.6,9.3,0.285
+tepung panir tepung roti,2,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,
+ikan gurame,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+lemon,2,buah,14,3,0,0.0,0.0,0.0,0.0,0.616
+susu cair putih,2,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+oregano,2,rempah,365,180,0,0.0,0.0,0.0,0.0,2.144
+ragi instan,2,bumbu,90,14,0,136.0,43.0,2.4,3.0,
+tuna kalengan,2,olahan,5,1,60,0.0,0.0,0.0,0.0,2.891
+saus raja,2,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+bubuk bawang putih,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+cabe hijau keriting,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+garam masala,2,rempah,365,180,0,0.0,0.0,0.0,0.0,5.064
+kismis,2,buah,365,180,0,0.0,0.0,0.0,0.0,3.549
+bawang putih giling,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+jahe giling,2,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+ikan teri,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.343
+mentimun,2,sayuran,7,2,0,0.0,0.0,0.0,0.0,0.426
+saus keju,2,bumbu,14,7,0,326.0,22.8,20.3,13.1,
+singkong,2,sayuran,5,3,30,0.0,0.0,0.0,0.0,0.881
+tepung keto,2,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+salmon fillet,2,olahan,5,1,0,0.0,0.0,0.0,0.0,1.913
+bubuk ketumbar,2,rempah,365,180,0,404.0,14.1,16.1,54.2,
+bawang putih uleg,2,bumbu,30,14,0,95.0,4.5,0.2,23.1,1.165
+bihun,2,karbohidrat,365,365,0,360.0,4.7,0.1,82.1,4.246
+nasi lontong,2,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+kepala,2,rempah,365,180,0,0.0,0.0,0.0,0.0,
+garam kaldu sapi bubuk,2,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+paprika merah hijau,2,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+cuka apel,2,bumbu,365,365,0,12.0,0.1,0.1,5.0,1.509
+minyak ikan,2,protein_hewani,2,0,90,902.0,0.0,100.0,0.0,9.343
+daging sapi kambing ayam,2,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kunyit jahe,2,rempah,21,14,60,63.0,2.0,2.7,9.1,1.2
+udang windu,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+merica bubuk ladaku,2,rempah,365,365,0,359.0,11.5,6.8,64.4,
+bon cabe level,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+cengek domba,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+terasi abc,2,bumbu,30,14,0,155.0,22.3,2.9,9.9,
+penyedap masako ayam,2,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tumbar,2,rempah,365,180,0,404.0,14.1,16.1,54.2,5.064
+kerupuk udang,2,olahan,90,30,0,0.0,0.0,0.0,0.0,3.052
+keping kemiri,2,rempah,30,14,60,636.0,19.0,63.0,8.0,7.954
+asam kandis,2,bumbu,180,60,0,0.0,0.0,0.0,0.0,1.509
+seledri daun bawang,2,bumbu,7,2,30,20.0,1.0,0.1,4.6,
+paprika bubuk,2,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+penyedap royco,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+ujungnya,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+himalayan salt,2,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+makaroni,2,karbohidrat,365,365,0,363.0,8.7,0.4,78.7,2.338
+rawit hijau,2,bumbu,5,2,30,0.0,0.0,0.0,0.0,0.656
+garem,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bubuk cabe,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+cumi,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,0.349
+santan encer,2,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+kecap suka,2,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+mentega margarin,2,olahan,30,5,90,720.0,0.6,81.0,0.4,
+lengkuas geprak,2,rempah,14,7,60,0.0,0.0,0.0,0.0,
+udang galah,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+salmon,2,olahan,5,1,0,0.0,0.0,0.0,0.0,1.913
+serre,2,rempah,14,5,60,0.0,0.0,0.0,0.0,
+tahu bandung,2,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+kacang,2,protein_nabati,90,30,0,102.9,3.3,2.7,16.3,
+sarden,2,olahan,5,1,60,0.0,0.0,0.0,0.0,2.016
+bunga pekak,2,rempah,365,180,0,0.0,0.0,0.0,0.0,
+belimbing air,2,bumbu,1,1,0,36.0,0.4,0.4,8.8,
+tepung terigu protein,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+gula palem,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,2.21
+sate,2,olahan,5,1,0,0.0,0.0,0.0,0.0,
+cabe rawit ijo,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+udang basah,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+asam sunti,2,bumbu,180,60,0,0.0,0.0,0.0,0.0,1.509
+tepung cakra,2,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+udang kulitnya,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+rawit setan,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kaldu jamur bubuk,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,0.321
+lele,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+jeroan kambing,2,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+tepung tapioka kanji,2,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+ayam dada,2,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+gurame,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+mecin,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+bubuk bawang putih bawang putih,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+tulang iga kambing,2,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+saus cabe,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.61
+lada putih,2,rempah,365,365,0,0.0,0.0,0.0,0.0,4.52
+lada garam,2,rempah,365,365,0,0.0,0.0,0.0,0.0,
+blue band,2,olahan,30,7,60,0.0,0.0,0.0,0.0,2.524
+udang kepalanya,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+chili flakes,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,0.656
+cabai merah kriting,2,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+cabe setan,2,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+air mineral,2,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+tepung sajiku,2,karbohidrat,365,180,0,353.0,0.7,0.2,84.7,
+petis,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.61
+penyedap royko,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+serai keprek,2,rempah,14,5,60,0.0,0.0,0.0,0.0,
+kecap bangau,2,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+mayonnaise,2,olahan,30,0,0,0.0,0.0,0.0,0.0,3.075
+telur ayam negeri,2,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+bakso sapi,2,olahan,5,1,60,0.0,0.0,0.0,0.0,3.739
+merica bubuk kaldu bubuk,2,rempah,365,365,0,359.0,11.5,6.8,64.4,
+saori saus tiram,2,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+jeruk,2,buah,14,7,0,0.0,0.0,0.0,0.0,0.529
+tahu sutera,2,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+air lemon,2,buah,14,3,0,0.0,0.0,0.0,0.0,0.616
+masako sapi,2,bumbu,365,180,0,0.0,0.0,0.0,0.0,69.927
+blimbing wuluh,2,buah,7,2,0,0.0,0.0,0.0,0.0,0.611
+tepung kanji,2,karbohidrat,365,365,0,316.0,60.1,6.5,22.4,
+sihung bawang putih,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+sihung bawang merah,2,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+masako ayam,2,bumbu,365,180,0,302.0,18.2,25.0,0.0,3.576
+teri,2,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.343
+selada air,2,sayuran,5,1,0,17.0,1.7,0.3,3.0,0.437
+kulit puff instant,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+tuna oil merk,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+boncabe chili flakes,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+tahu petak,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+cabe merah kriting cabe rawit,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kapulaga jawa,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+lengkuas muda,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+air nasi,1,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+margarin minyak samin,1,olahan,30,7,60,720.0,0.6,81.0,0.4,
+garam merica masako gula,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+sledry,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+beras beras perak,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.309
+daging sapi pilih mudah empuk,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+air air kaldu daging,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,
+kerupuk emping,1,olahan,90,30,0,0.0,0.0,0.0,0.0,
+blok kaldu ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+salah ujungnya,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+sosis potongan sosis total,1,olahan,7,1,60,0.0,0.0,0.0,0.0,2.08
+daging sapi ganti kambing ayam resep asli,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kunyit mimi peres kunyit,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+margarine pake minyak samin,1,olahan,30,7,60,0.0,0.0,0.0,0.0,
+air jenis berasnya,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.309
+rempah ganti kari kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+daun salam robek,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+bihun soun seduh air,1,karbohidrat,365,365,0,360.0,4.7,0.1,82.1,
+telur ceplok,1,protein_hewani,4,0,0,383.0,15.1,32.9,8.3,1.075
+cabe utuh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+santan instan dgn air,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+gula kaldu bubuk kaldu jamur,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+daging sapi sop,1,protein_hewani,3,0,120,207.0,18.8,14.0,0.0,69.927
+kacang pangjang,1,protein_nabati,90,30,0,44.0,2.7,0.3,7.8,0.857
+ayam bawang,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+peras,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+mentega butter,1,olahan,30,5,90,725.0,0.5,81.6,1.4,
+kaldu bubuk suka,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+tepung tapioka sagu,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+ayam paha,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.041
+tepung ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+saos botolan,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+saos tomat botolan,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+smua saos atas,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+paha kambing muda,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+beras basmathi,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.309
+kunyit warna,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+telur putih,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+air kaldu tulang,1,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+timun jepang,1,sayuran,7,2,0,0.0,0.0,0.0,0.0,0.426
+kecap jepang kikkoman shoyu,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+kaldu jamur daging sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+jus apel,1,buah,3,1,0,58.0,0.3,0.4,14.9,1.564
+bawang putih bubuk bawang gerus,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,1.165
+daging kambing air sampe empux,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+munjung tepung tapioka kanji,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+daging sapi sirloin kualitas,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+merica hitam pake ladaku,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+kecap sedap gula garam,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+gula garam kecap penyedap klo,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+asem kandis,1,bumbu,180,60,0,0.0,0.0,0.0,0.0,1.509
+jamur enoki,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+parutan jahe,1,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+dashi kaldu ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+roti tawar,1,karbohidrat,5,2,60,0.0,0.0,0.0,0.0,1.454
+margarine butter,1,olahan,30,5,90,0.0,0.0,0.0,0.0,
+kikil sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kelapa tdk ush,1,buah,7,3,30,0.0,0.0,0.0,0.0,
+daun bawang bawang pre,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+makaroni elbow,1,karbohidrat,365,365,0,363.0,8.7,0.4,78.7,
+kaldu bubuk merica,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+tabur balado cabe bubuk,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+klapa,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+cabe bubuk minyak,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+mangkuk kol,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,0.324
+garam cuka,1,bumbu,365,365,0,12.0,0.1,0.1,5.0,
+telur ayam kulitnya,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+garam kaldu,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+merica bubuk enak pake merica butiran,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+sajian sambel jeruk nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+daging sapi bagus,1,protein_hewani,3,0,120,182.0,32.0,6.0,0.0,69.927
+cabe hijau ganti paprika,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+tepung maisena,1,karbohidrat,365,180,0,341.0,0.3,0.0,85.0,
+daging sapi iga,1,protein_hewani,3,0,120,207.0,18.8,14.0,0.0,69.927
+kolpotong,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,
+garam kaldu bubuk jamur,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+puff pastry merk edo,1,karbohidrat,5,0,30,0.0,0.0,0.0,0.0,
+tuna kemasan,1,olahan,5,1,60,0.0,0.0,0.0,0.0,2.891
+jamur kancing kemasan,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+keju cheddar kraft,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+margarine palmia bawang putih,1,olahan,30,7,60,0.0,0.0,0.0,0.0,1.165
+sejumput gula pasir,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kuning telur olesan,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+daging ayam paha,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+saus banyaknya,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+kacang tanah mede,1,protein_nabati,180,60,0,513.0,17.5,32.5,44.3,3.33
+fillet ikan tenggiri,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+putel telur,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+telur garam,1,protein_hewani,21,7,0,162.0,12.8,11.5,0.7,1.075
+cuko,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+asam jawa air,1,bumbu,180,90,0,0.0,0.0,0.0,0.0,
+cabe pedasnya,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+lada utuh,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+tahu telur sapo,1,protein_hewani,21,7,0,68.0,7.8,4.6,1.6,1.075
+jamur kuping hitam basah,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+sauce black pepper,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+france fries,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+krupuk,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bangkuang,1,sayuran,14,5,0,55.0,1.4,0.2,12.8,0.285
+ayam filet,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+garam masako ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tahu coklat segitiga,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+masako daging sapi,1,protein_hewani,3,0,120,49.0,5.8,0.5,5.3,69.927
+lokio,1,sayuran,5,2,0,0.0,0.0,0.0,0.0,0.447
+kaldu bubuk option,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+daging has,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+santan kara air,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+acar timun bawang merah,1,sayuran,7,2,0,0.0,0.0,0.0,0.0,0.715
+cooking cream,1,olahan,7,0,0,0.0,0.0,0.0,0.0,1.562
+keju quick melt,1,olahan,30,1,90,326.0,22.8,20.3,13.1,6.062
+pasta tomat sugar free,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+italian herbs,1,rempah,365,180,0,0.0,0.0,0.0,0.0,2.144
+tahu pong,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+cabai rawit setan utuh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kaldu bubuk sapi non,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,69.927
+kunyit tua,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+tahu putih isi,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+daun salam ukbesar klo,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+mie sedap soto,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.246
+bunga lawang pekak,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+kecap kalo warna pekat,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+gula merah asam jawa,1,bumbu,180,90,0,0.0,0.0,0.0,0.0,
+tpis,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+lonjor tempe,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+kembar daun salam,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+belimbing wuluh krn tdk,1,buah,7,2,0,36.0,0.4,0.4,8.8,
+daging kambing ayam sapi,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,69.927
+santan kara segitiga,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+garam gula kaldu jamur,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+muncung gula pasir,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ayam negri ganti ayam kampung,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+bawang putih sesang,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+merk delmonte,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+margarin palmia bawang putih,1,olahan,30,7,60,720.0,0.6,81.0,0.4,1.165
+jeroan klu suka,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kapulaga isisnya,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+tepung pkek sajiku golden crispy kmasan,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+tepung trigu,1,karbohidrat,365,180,0,365.0,8.9,1.3,77.3,
+mujung,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+beras long grain bulir panjang merk,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.309
+bawang putih utuh,1,bumbu,30,14,0,95.0,4.5,0.2,23.1,1.165
+cengkeh utuh,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+black lemon powder tdk,1,buah,14,3,0,0.0,0.0,0.0,0.0,
+saffron,1,rempah,730,365,0,0.0,0.0,0.0,0.0,5.064
+minyak samin,1,olahan,30,7,60,0.0,0.0,0.0,0.0,2.808
+raisins,1,buah,365,180,0,0.0,0.0,0.0,0.0,3.549
+olive oil minyak,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+blackpepper,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,4.52
+cue tongkol,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+sct kaldu bubuk ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tepung roti warna orange,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,
+ikan,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+pecak,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+temu kunci,1,rempah,14,7,60,0.0,0.0,0.0,0.0,1.2
+cabe merah nanjung,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+beking powder,1,bumbu,365,365,0,0.0,0.0,0.0,0.0,
+kikil,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+mie soun,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.246
+pangsit krupuk,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+pasta lasagna,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,2.338
+daging sapi bole,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+saos bolognese,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+garam merica pala,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+saos bechamel,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+macarone,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,2.338
+paprika warna bebas,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+saus tiram oyster sauce,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+lada hitam butiran utuh,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+minyak olive oil,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+tepung instant,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+jeruk kunci,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.611
+cabai merah keriting pedasnya,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+saus blackpepper,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+ikan mujair,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+keju mozarella,1,olahan,30,1,90,326.0,22.8,20.3,13.1,5.96
+saus bolognese,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+blok tahu putih,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+baking powder double action,1,bumbu,365,365,0,0.0,0.0,0.0,0.0,
+lidah sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+saus inggris,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+tepung aci tepung tapioka,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+royco ayam kaldu,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+cabai bubuk merk aida,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+balado bubuk merk ultra aroma,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+daging sapi pake has,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+paket ikan pindang tongkol suir,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+susu murni hewani,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+starter yogurt merk yummy plain kefir,1,olahan,14,0,0,0.0,0.0,0.0,0.0,
+gula pasir sekedar netralisir asam yogurt,1,olahan,14,0,0,0.0,0.0,0.0,0.0,
+kecap shoyu kikkoman,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+air kaldu sapi bekas daging sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+ati ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tempe rupiah,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+dada ayam utuh,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+smoked beef,1,olahan,5,1,60,0.0,0.0,0.0,0.0,6.365
+keju mozarella filling,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+mayones saus keju,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+unsalted butter margarin,1,olahan,30,5,90,720.0,0.6,81.0,0.4,3.299
+kaldu ayam air putih,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+saus tiram kecap,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+udang kepala kulitnya,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+cabai rawit merah opsi,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+blok terasi,1,bumbu,30,14,0,155.0,22.3,2.9,9.9,
+garam kaldu bubuk suka,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+cabe rawit biar bungsu ngak kepedesan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+cabe ijo keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+saos saori,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+saos lada hitam saori,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+semangkuk toge,1,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,
+kulit pie,1,karbohidrat,5,0,30,0.0,0.0,0.0,0.0,
+keju cheddar quick melt,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+sayur kol,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,
+bubuk lada,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+roti kebab,1,karbohidrat,5,2,60,0.0,0.0,0.0,0.0,1.454
+kefir yogurt plain,1,olahan,14,0,0,0.0,0.0,0.0,0.0,0.731
+vco,1,bumbu,365,90,0,0.0,0.0,0.0,0.0,2.808
+saus tomat saus tomat pomi,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+daun selada,1,sayuran,5,1,0,15.0,1.2,0.2,2.9,0.437
+saus kebab,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+mayonaise,1,olahan,30,0,0,0.0,0.0,0.0,0.0,3.075
+saus asam,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+bentuk korek api,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+pasta tomat tomat,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+merica gula pasir,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+daging ayam ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+asam kandis ganti air jeruk nipis,1,bumbu,180,60,0,0.0,0.0,0.0,0.0,0.565
+ketimun,1,sayuran,7,2,0,12.0,0.7,0.1,2.7,0.426
+garam gula merah,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kecap kecap abc,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+putren,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+daun pisang aluminium foil,1,olahan,3,1,14,0.0,0.0,0.0,0.0,0.842
+tempe gembus,1,protein_nabati,3,2,0,73.0,5.7,1.3,4.2,0.699
+ayam garing,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tahu pong tahu sumedang,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+jeruk jeruk limau,1,buah,14,3,0,0.0,0.0,0.0,0.0,
+daging sapi kualitas bagus,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+paprika hijau,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+kentang tua,1,sayuran,14,7,90,83.0,2.0,0.1,19.1,0.442
+fillèt dada ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+susu bubuk full cream,1,olahan,14,14,0,0.0,0.0,0.0,0.0,0.537
+kaldu ayam bubuk blok,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tepung panir bread crumbs,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,
+hati lemak,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+saos kacang,1,protein_nabati,90,30,0,0.0,0.0,0.0,0.0,
+air kekentalan,1,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+jeruk limau nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,
+cabe rawit irisan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+soun kol,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,
+bngks tempe,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+resep garamasala,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+bawang putih hipertensi,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+bawang merah resep asli,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+garamasala,1,rempah,365,180,0,0.0,0.0,0.0,0.0,5.064
+keping mie,1,karbohidrat,365,365,0,337.0,7.9,11.8,50.0,4.246
+sarden gaga,1,olahan,5,1,60,0.0,0.0,0.0,0.0,
+asem,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+tomat suka,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+air kelapa,1,buah,3,1,0,0.0,0.0,0.0,0.0,6.639
+daging sapi lulur,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+lada hitam butiran,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+visin,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+smooked beef ketofy,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+himalayan salt merica,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+butter olesan,1,olahan,30,5,90,0.0,0.0,0.0,0.0,
+susu full cream santan,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+santan kelapa klo,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+kemir,1,karbohidrat,365,365,0,636.0,19.0,63.0,8.0,
+merica lada,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+spaghetti lafonte,1,karbohidrat,365,365,0,139.0,7.4,2.1,22.6,
+bawang putih chopped,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+tabur keju,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+parsley oregano,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+bakso sapi frozen food,1,olahan,5,1,60,0.0,0.0,0.0,0.0,69.927
+mie merek cap ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+lenjar daun sledri,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+lenjar daun bawang,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+boncabe serundeng abon,1,bumbu,365,180,0,280.0,9.2,28.4,0.0,
+saos tiram kental,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+kulit sapi,1,olahan,5,1,0,0.0,0.0,0.0,0.0,69.927
+kental instan sun kara,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+gula gula tropicana,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kaldu jamur totole,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,0.321
+pecel instan,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+lontong,1,karbohidrat,2,1,30,0.0,0.0,0.0,0.0,4.309
+saus barbeque pake,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+madu ganti gula,1,bumbu,1825,1825,0,294.0,0.3,0.0,79.5,0.72
+susu uht susu bubuk air,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+bubuk keju indofood kentang,1,olahan,30,1,90,83.0,2.0,0.1,19.1,0.442
+bawang daun potong²,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tomat potong²,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+kelapa santannya,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+kambing muda,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+aje pala,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+kapulaga arab,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+tepung terigu air lem kulit lumpia,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+lada merica bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+tepung kanji tepung tapioka tepung aci,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+daging sapi sengkel,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+tetelan,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+ceper ketumbar,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+lemon jeruk nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+afdhol paprika hijau,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+rebon,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+paprika merah cabe merah,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+paprika hijau cabe hijau,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+rebon rese teri udang,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+tempe semangit empe over rip belumsampai busuk,1,protein_nabati,3,2,0,0.0,0.0,0.0,0.0,0.699
+terasi instan nemu sisa kulkas,1,bumbu,30,14,0,155.0,22.3,2.9,9.9,
+kacang merah basah,1,protein_nabati,180,90,0,0.0,0.0,0.0,0.0,1.152
+air kacang,1,protein_nabati,90,30,0,330.0,23.8,1.4,60.2,
+tepung terigu serba,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+air susu cair,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+sepotong daging ayam suwir suwir,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+kakap merah,1,protein_hewani,2,0,90,92.0,20.0,0.7,0.0,1.338
+santan encer kebutuhan,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+daging tulangan ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+soun,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.246
+ikan fillet mahi mahi,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.338
+minyak zaitun minyak,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+parsley,1,rempah,365,180,0,0.0,0.0,0.0,0.0,0.419
+bngks tempe berat asli tempe bagus,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+lada hitam putih lada hitam,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+toge seharga,1,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,
+nasi kebuli mawur,1,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+kari instan indofood,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kepala ikan kakap,1,protein_hewani,2,0,90,92.0,20.0,0.7,0.0,
+belimbing wuluh tomat,1,sayuran,7,3,0,36.0,0.4,0.4,8.8,0.449
+rawit setan utuh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+jeruk nipis keceran penyajian,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+bunga daun bawang,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+cabe rawit orens,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+puff pastry,1,karbohidrat,5,0,30,0.0,0.0,0.0,0.0,1.398
+putih telur perekat,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+cayenne pepper cabai bubuk,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,0.656
+paprika powder,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+dry oregano,1,rempah,365,180,0,0.0,0.0,0.0,0.0,2.144
+bawang putih powder,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+lemak sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+tempe setengh,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+macaroni elbow,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,2.338
+dante,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+susu cair plain,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+pala merica,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+potomg,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kerupuk orange,1,olahan,90,30,0,0.0,0.0,0.0,0.0,
+daun sawi,1,sayuran,5,1,0,22.0,2.3,0.3,4.0,0.324
+keping bihun soun,1,karbohidrat,365,365,0,360.0,4.7,0.1,82.1,
+merica kaldu bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+pedasnya,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+daging sapi fresh from freezer,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+susu bubuk,1,olahan,14,14,0,513.0,24.6,30.0,36.2,0.537
+zafaron air,1,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+tetes pke pewarna makanan warna kuning telur,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+areng alumunium foil bsa,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bawang putih cingcang,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+kecap tropicana slim non ketoers kecap bebas,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+air minum,1,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+daging kambing bentar ngilangin kotoran,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+telur puyuh bakso sosis telur,1,protein_hewani,14,7,0,0.0,0.0,0.0,0.0,1.075
+merica bubuk kaldu ayam bubuk,1,protein_hewani,3,0,120,359.0,11.5,6.8,64.4,3.576
+cabe rawit yaa,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+royco sckupnnya,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+kecap inggris krna,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+lobak,1,sayuran,14,5,0,19.0,0.9,0.1,4.2,0.285
+kacang kedelai,1,protein_nabati,180,90,0,286.0,30.2,15.6,30.1,1.754
+kerupuk,1,olahan,90,30,0,0.0,0.0,0.0,0.0,3.052
+cuka jeruk nipis,1,bumbu,365,365,0,12.0,0.1,0.1,5.0,0.565
+tahu coklat pong,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+danging,1,olahan,5,1,0,0.0,0.0,0.0,0.0,69.927
+kambing sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+santan kental kelapa,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+daging sapu giling,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,44.84
+daun pandan,1,rempah,5,2,14,0.0,0.0,0.0,0.0,0.368
+batok gula jawa,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+pempek,1,olahan,3,0,30,0.0,0.0,0.0,0.0,
+jagung jumbo,1,sayuran,3,1,90,0.0,0.0,0.0,0.0,0.565
+daging udang,1,protein_hewani,3,0,120,118.0,18.1,4.1,0.9,9.912
+daun kucai,1,sayuran,5,2,0,45.0,2.2,0.3,10.3,0.447
+air garam,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+dashi bubuk kaldu bubuk,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+mayo,1,olahan,30,0,0,0.0,0.0,0.0,0.0,3.075
+cabe rawit merah ganti cabe keriting merah,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+gula kaldu bubuk,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+filet ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+daun kari daun jeruk,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+daging kambing lemak,1,protein_hewani,3,0,120,149.0,16.6,9.2,0.0,38.779
+kulit buntut,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,
+air enak air sisa ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+masako suka,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+pekak bunga lawang,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+acar timun,1,olahan,7,1,0,0.0,0.0,0.0,0.0,2.88
+panjang tempe,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+rese udang,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+spageti,1,karbohidrat,365,365,0,139.0,7.4,2.1,22.6,2.338
+kacang polong lenjer kacang panjang,1,protein_nabati,5,1,90,0.0,0.0,0.0,0.0,0.857
+bawang bombai bawang merah,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+sarden saus cabai,1,olahan,5,1,60,0.0,0.0,0.0,0.0,
+tulangan kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+santan kekentalan pke blimbing,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+ikan mujaer,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+cuka merk kura kura,1,bumbu,365,365,0,12.0,0.1,0.1,5.0,
+daun bawang ikatan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daun bawang miring,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kencur ciri khas tempe purwokerto,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+tepung saji tepung terigu,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+jus apel air putih,1,buah,3,1,0,58.0,0.3,0.4,14.9,
+saus kacang,1,bumbu,14,7,0,0.0,0.0,0.0,0.0,
+kepala kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+merica utuh,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+lengkuas serei,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+kembang kol,1,sayuran,7,2,30,25.0,2.4,0.2,4.9,0.539
+lada merica,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+tuna putih,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+mrica butiran,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+tahu kopong,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+penyedap royco sapi,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,69.927
+bawang putih gerus,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+daging fillet ikan tenggiri,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+air susu cair santan cair,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+iga kambing potong²,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+jeroan kambing suka,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+daun jeruk sobek²,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+ayam pejantan kampung muda,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+santal kental,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+fillet daging ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tepung tapioka tepung sagu,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+putih telur telur ayam putih telur,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+kaldu instant,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bawang merah uleg,1,bumbu,30,14,0,39.0,1.5,0.3,0.2,0.715
+santan kental kemasan santan kemasan,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+cabai merah rawit,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+cabe rawit jawa suka,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+rimpang laos serundeng byk,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+tumbar bubuk,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+kalapa,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+breadcrumb,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,2.302
+udang dapetnya segini,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+daun bawang batangnya,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+merica pake dikit,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+tepung tapioka merk tani,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+kulit gyoza kulit pangsit biar gampang,1,karbohidrat,7,1,30,0.0,0.0,0.0,0.0,
+saus tomat merk delmonte,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+labu siam muda,1,sayuran,14,7,0,0.0,0.0,0.0,0.0,0.528
+ikan tuna ikan tuna,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+ikannya gede,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+garam perasan jeruk nipis,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,0.565
+cabe merah keriting ganti cabe rawit merah,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+ketumbar kurangi,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+daun kari,1,rempah,7,3,0,0.0,0.0,0.0,0.0,0.368
+cabe lombok,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+ikan teri air jeruk nipis,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,0.565
+tulangan sapi,1,olahan,5,1,0,0.0,0.0,0.0,0.0,69.927
+kerupuk emping belinjo,1,olahan,90,30,0,0.0,0.0,0.0,0.0,
+tempe daun,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+shirataki tsubu,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+klg tuna chunks light ayam brand,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+boncabe,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,0.656
+garam himalaya,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+labu siam korek api,1,sayuran,14,7,0,0.0,0.0,0.0,0.0,0.528
+daun krmangi,1,olahan,5,1,0,46.0,4.0,0.5,8.9,
+saus cap belibis,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+gula pasir gula merah,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+cabai keriting merah,1,bumbu,7,2,30,367.0,15.9,6.2,61.8,
+santan kara kekentalan,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+labu baby,1,sayuran,14,7,0,0.0,0.0,0.0,0.0,0.528
+rebon air,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+cabe merah hijau,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+penyedap jamur penyedap ayam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+kaldu sapi bubuk maseko,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+daging sapi kerbau kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+air bekas daging,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,
+langkoas,1,rempah,14,7,60,0.0,0.0,0.0,0.0,1.076
+tepung kobe super crispy,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+tepung putih telur,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+himsalt,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ngo hiong,1,rempah,365,180,0,0.0,0.0,0.0,0.0,5.064
+kulit kembang tahu,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+saos lada hitam,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.579
+lonjor kacang panjang,1,protein_nabati,90,30,0,0.0,0.0,0.0,0.0,0.857
+gula pasir merica bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+telur bebek enak,1,protein_hewani,14,7,0,320.0,15.1,30.5,0.9,1.075
+giling tmb rawit suka,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+energen coklat,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+tulang daging kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+santan kental instan,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+telur pitan,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+daun cilantro,1,rempah,365,180,0,0.0,0.0,0.0,0.0,0.419
+fish sauce,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,1.511
+daging kambing daging sapi daging ayam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+timun cabe,1,sayuran,7,2,0,0.0,0.0,0.0,0.0,
+kakap fillet,1,protein_hewani,2,0,90,92.0,20.0,0.7,0.0,1.338
+tepung pengental,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+sosis fiesta kari,1,olahan,7,1,60,0.0,0.0,0.0,0.0,2.08
+ikan lele,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+kaldu bubuk gula,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+marinade lele,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+kikil sapi masak,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+daun kedondong,1,sayuran,3,1,0,59.0,2.8,0.3,13.4,0.471
+asam cempling asam msi,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+swalow globe,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+lada bawang putih,1,bumbu,30,14,0,95.0,4.5,0.2,23.1,1.165
+kubis kulitnya,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,
+daun pepaya remas,1,sayuran,3,1,0,87.0,8.0,2.0,11.9,0.471
+kecap kacang tanah,1,protein_nabati,180,60,0,46.0,5.7,1.3,9.0,1.511
+garam gula kaldu bubuk lada,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+gula pasir penyedap,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+tepung kriuk,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+udang jenis,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+sagu tapioka,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+gandum,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.492
+daging sapi iga sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+ayam tulang,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+kaldu bubuk pake masako,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+cheddar,1,olahan,30,1,90,0.0,0.0,0.0,0.0,
+sosis sony gold,1,olahan,7,1,60,0.0,0.0,0.0,0.0,2.08
+kulit ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tempe sayur harga rban,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+bji cabai merah,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+terasi pake abc,1,bumbu,30,14,0,155.0,22.3,2.9,9.9,
+lada ladaku,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+jeroan,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+pala bubuk,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+gula pasir gula jawa,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kuntum cengkeh,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+daun kare krn nemu,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bngkus santan kara,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+lonjor tempe ukbesar,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+telur ayam ceplok,1,protein_hewani,3,0,120,383.0,15.1,32.9,8.3,3.576
+serai kupotong,1,rempah,14,5,60,0.0,0.0,0.0,0.0,
+ayam leher,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+daging paha ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.041
+tepung sagu pake tepung tapioka,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+saus bangkok,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+daun singkong muda,1,sayuran,5,3,30,73.0,6.8,1.2,13.0,0.881
+telur pencelup,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+mie kuning,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.246
+tomat ceri,1,buah,7,3,0,0.0,0.0,0.0,0.0,0.449
+cabe rawit jawa,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+seibu asam jawa,1,bumbu,180,90,0,0.0,0.0,0.0,0.0,
+rawit merah hijau,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daging ayam freez jam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+daging sapi freez jam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+salted butter,1,olahan,30,5,90,0.0,0.0,0.0,0.0,3.299
+mayonnaise pilih free carbs sugar,1,olahan,30,0,0,0.0,0.0,0.0,0.0,
+telur kulitnya,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+kentang tahu,1,protein_nabati,3,1,30,83.0,2.0,0.1,19.1,1.411
+tahu dgoreng,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+daging kambing lemak enak,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+santan kental bgks segitiga,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+air dgn santan,1,olahan,3,0,30,122.0,2.0,10.0,7.6,6.639
+kentang sebentar diair garam,1,sayuran,14,7,90,83.0,2.0,0.1,19.1,0.442
+lombok rawit merah,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kaki kambing presto empuk,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+minyak samin merk onta,1,olahan,30,7,60,0.0,0.0,0.0,0.0,
+air kaldu kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+susu bubuk dancow,1,olahan,14,14,0,0.0,0.0,0.0,0.0,0.537
+keripik belinjo,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+acar timun wortel cabe,1,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+cabe garam,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+baby pakcoy,1,sayuran,5,1,0,0.0,0.0,0.0,0.0,0.324
+bakso ikan,1,olahan,5,1,60,0.0,0.0,0.0,0.0,2.011
+tahu udang,1,protein_hewani,2,0,90,68.0,7.8,4.6,1.6,9.912
+ayam paha gede dada ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.041
+mie kuning telor,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+jeruk kesturi,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.611
+telur ceplok kasih garam lada,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+bihun instan,1,karbohidrat,365,365,0,360.0,4.7,0.1,82.1,
+ikan jambal roti,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+cabai hijau keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kari kambing bubuk,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+kaldu bubuk non,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+ikan pindang tongkol ukkecil,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+air perasan lemon,1,buah,14,3,0,0.0,0.0,0.0,0.0,
+telur ayam enak telur bebek,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+kelapa karna,1,buah,7,3,30,0.0,0.0,0.0,0.0,
+kaldu jamur lada,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+tulang ayam punggung,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+cabe rawit cabe gendot,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kaldu sapi non,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+tepung sagu tani,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,
+daging kambing mix iga,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+kapol kapulaga,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+star anis pekak,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+minyak samin margarin,1,olahan,30,7,60,720.0,0.6,81.0,0.4,
+cabe giling irisan timun nanas,1,sayuran,7,2,0,0.0,0.0,0.0,0.0,0.701
+isi tempe,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+kemangi daunnya,1,bumbu,3,1,0,46.0,4.0,0.5,8.9,
+sosis sapi lada hitam,1,rempah,365,365,0,0.0,0.0,0.0,0.0,69.927
+teri nasi,1,protein_hewani,2,0,90,180.0,3.0,0.3,39.8,9.343
+asam air,1,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+mangkuk santan kental,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+ikan tongkol jdi,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+bawang merah utuh,1,bumbu,30,14,0,39.0,1.5,0.3,0.2,0.715
+bawang putih uksedang,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+garam ketumbar,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+merica air,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+rib eye slice,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+udang blender udang,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+tepung terigu segitiga biru,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+tepung aci,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,
+telur ukkecil,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+daging paha kambing muda,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+santan tingkat kekentalan,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+ketumbar gongseng,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+kemiri gongseng,1,rempah,30,14,60,636.0,19.0,63.0,8.0,7.954
+garam gula kaldu penyedap,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+gula garam lada,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+merica hitam putih,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+paprika bubuk blh,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+cabe rawit bubuk pake cabai,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+yoghurt,1,olahan,14,0,0,52.0,3.3,2.5,4.0,0.731
+garam mashala blh,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+sejumput bubuk kari kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+kunyit sebentar,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+tetelan sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+udang kasih perasan lemon,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+kikil kulit sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kacang tanah udah,1,protein_nabati,180,60,0,0.0,0.0,0.0,0.0,3.33
+bawang mereh,1,bumbu,30,14,0,39.0,1.5,0.3,0.2,0.715
+daun jeruk tulang daunnya,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+kaldu bubuk ayam gula merah,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+kluwek,1,rempah,180,90,0,310.0,10.0,24.0,13.5,3.426
+daun jeruk tulangnya,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+kaldu jamur bubuk non,1,sayuran,5,1,30,0.0,0.0,0.0,0.0,0.321
+jagung pipil,1,sayuran,3,1,90,0.0,0.0,0.0,0.0,0.565
+knorr pasta tom yam,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,2.338
+tempe daun tempe,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+block trasi kemasan,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,
+daging sapi slice ala shabu shabu,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kecap gula biar gurih coca cola garam gurih,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+cabai setan tau nama bagusnya,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+garam gula merica,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+bumbunya,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+wortel baby wortel,1,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+daun kemangi secukup nya ketumbar,1,bumbu,3,1,0,404.0,14.1,16.1,54.2,
+kecap ikan fisch sauce,1,protein_hewani,2,0,90,46.0,5.7,1.3,9.0,1.511
+daun jeruk nipis,1,rempah,7,3,30,0.0,0.0,0.0,0.0,0.565
+thai chili paste,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kulit jeruk nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+daging iga,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kismis hitam,1,buah,365,180,0,0.0,0.0,0.0,0.0,1.149
+ikan sarden,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+saus tomat abc,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+soas tomat,1,sayuran,7,3,0,98.0,2.0,0.4,24.5,0.449
+sosis dannpanjang panjang,1,olahan,7,1,60,0.0,0.0,0.0,0.0,2.08
+rumput laut nori nori mama suka,1,olahan,14,7,0,0.0,0.0,0.0,0.0,
+merica putih bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+cabe ije bulet,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+cengek,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kecap pake bango,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+petis udang kualitas super,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.61
+air kaldu aron nasi,1,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+kayu uksedang,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+jahe ukjari telunjuk,1,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+kunyit uk½jari telunjuk,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+tepung tapioka sagu tani,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.769
+bawang putih halusin,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+lenjer kacang panjang,1,protein_nabati,90,30,0,0.0,0.0,0.0,0.0,0.857
+tempe semangit berwarna cokelat,1,protein_nabati,3,2,0,0.0,0.0,0.0,0.0,0.699
+ikan pindang tongkol,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+balok tempe,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+rawit merah keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+gurami ikan bun,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+saos asam,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+cuka makanan,1,bumbu,365,365,0,12.0,0.1,0.1,5.0,1.509
+tahu pake tahu gembos,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+garam gula penyedap,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ketumbar ketumbar sdh,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+jahe pake,1,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+bgks ikan tongkol,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+cabe keriting blh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tofu,1,protein_nabati,3,1,30,0.0,0.0,0.0,0.0,1.411
+bread crumbs,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,2.302
+tenderloin aussie,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+saus bbq merk,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,1.915
+bandeng,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,6.821
+bawang bombai krn stock kulkas kosong,1,bumbu,14,7,0,0.0,0.0,0.0,0.0,
+udon,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,
+diair menit,1,bumbu,1,1,0,0.0,0.0,0.0,0.0,
+sawi dgn,1,sayuran,5,1,0,22.0,2.3,0.3,4.0,0.324
+daging giling,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,44.84
+bawang putih margarin merk palmia pake margarin,1,olahan,30,7,60,720.0,0.6,81.0,0.4,1.165
+saos bbq homemade,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+wortel korek,1,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+potato wedges,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kapolaga,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+ikan bawal laut,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+fermipan,1,bumbu,90,14,0,0.0,0.0,0.0,0.0,
+tepung terigu cakra pake segitiga biru karna,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+sch susu dancow,1,olahan,5,1,0,0.0,0.0,0.0,0.0,0.537
+mentega blue band,1,olahan,30,5,90,725.0,0.5,81.6,1.4,
+keju chedar mozarella,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+saos pasta bolognaise pake merk delmonte,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,2.338
+sosis ayam sapi,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,69.927
+telur orak arik,1,protein_hewani,4,0,0,0.0,0.0,0.0,0.0,1.075
+jeruk limao,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.611
+air perasn jeruk nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+buncis muda,1,sayuran,5,2,30,35.0,2.4,0.2,7.7,0.977
+tempe persegi panjang,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+tempe tahu tempe gembus permukaannya,1,protein_nabati,3,1,30,0.0,0.0,0.0,0.0,1.411
+balok gula jawa pake balok lingkaran,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+telur kampung,1,protein_hewani,14,7,0,0.0,0.0,0.0,0.0,1.075
+minyak wijen pagoda,1,bumbu,365,180,0,568.0,19.3,51.1,18.1,
+mie telor,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.075
+perasan air jeruk lemon nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,
+iga sapi sdh iga,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+bawang merah bawang,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+cabe keriting cabe merah mix,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+keluwek,1,rempah,180,90,0,310.0,10.0,24.0,13.5,3.426
+tepung pake kobe,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+tepung protein,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,2.302
+kaldu penyedap,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+bawang prey hijau,1,bumbu,7,2,30,45.0,2.2,0.3,10.3,
+bawang prey,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.447
+ladaku takut pedes,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+serai bag putihnya,1,rempah,14,5,60,0.0,0.0,0.0,0.0,
+tomat blender,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+cabe bubuk boncabe,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+cabe rawit merah yaa super pedes,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+garam merica bubuk kaldu bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+sayur terigu,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+sayur maizena,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.574
+kayu minus,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+cabe rawit merah hijau utuh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+jahu,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+cabe oren cabe merah,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+jagung muda,1,sayuran,3,1,90,35.0,2.2,0.1,7.4,0.565
+bngkus ladaku,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+udang kepala kulit,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+lengkas,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+sawi caisim,1,sayuran,5,1,0,22.0,2.3,0.3,4.0,0.324
+bawang ganti cabe rawit,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,
+kulit kulit ekornya,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+tdk daun kemangi,1,bumbu,3,1,0,46.0,4.0,0.5,8.9,
+paprika cabe merah,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+penyedap sckupnya,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+wortel organik,1,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+tomat muda,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+tahu putih tahu kuning,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+suwir peras,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bgks masako ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+ayam dada pake tulang,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+daging sapi good quality,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+kecap garam,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+wijen kehabisan,1,rempah,180,90,0,568.0,19.3,51.1,18.1,
+nasi kongbab pake nasi enaknya,1,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+bgks kongbab,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+fusilli ganti makaroni pipa,1,karbohidrat,365,365,0,363.0,8.7,0.4,78.7,
+ganti daun bawang sayur,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tahu isi,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+togé,1,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,
+ragi instant,1,bumbu,90,14,0,136.0,43.0,2.4,3.0,
+tepung roti panir,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,
+tuna lumuri perasan jeruk nipis giling dgn pisau,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+daun bawang pake seledri,1,bumbu,7,2,30,20.0,1.0,0.1,4.6,
+lada hitam putih,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+tepung terigu air,1,protein_hewani,2,0,90,365.0,8.9,1.3,77.3,1.492
+pala pala,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+cabe merah kriting cabe rawit suka,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daging sapi tetelan,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+ayam udh dcuci,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+cabai hijau paprika hijau,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+tahu ukbiasa,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+cabe rawit merah orange,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tepung sasa serba,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+serai putihnya keras,1,rempah,14,5,60,0.0,0.0,0.0,0.0,
+terasi suka,1,bumbu,30,14,0,155.0,22.3,2.9,9.9,
+cabe gila,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kaldu gula,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ketumbar uleg air,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+bawang putih suka krn wangi,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+daun jeruk krn wangi,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+gula merah krn cair,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+ikan dori fillet,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.338
+penyedap totole,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+cabai cawit,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+keping mie kuning mie,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,4.246
+daun bayam,1,sayuran,3,1,0,0.0,0.0,0.0,0.0,0.471
+bawang putih bubuk bawang,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,1.165
+ayam sayap,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.152
+bngkus santar kara,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+putih telor,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+asam kesturi,1,bumbu,180,60,0,0.0,0.0,0.0,0.0,1.509
+rawit hijau utuh,1,bumbu,5,2,30,0.0,0.0,0.0,0.0,
+daun kemangi daunnya,1,bumbu,3,1,0,0.0,0.0,0.0,0.0,
+daging tulangan kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+kentang medan,1,sayuran,14,7,90,83.0,2.0,0.1,19.1,0.442
+kambing ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+santan santan kara,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+dun kol,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,0.324
+bawal,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+daun bawang daun seledri,1,bumbu,7,2,30,20.0,1.0,0.1,4.6,
+kaldu bubuk sapi kaldu ayam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+saos air,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+ketumbar lada pala,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+bawang merah sbgai,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+lengkuas serai salam,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+gula merah garam mecin masako asam kandis jawa,1,bumbu,180,60,0,0.0,0.0,0.0,0.0,
+dada ayam giling,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,6.284
+bubuk,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+nori mama suka,1,olahan,14,7,0,0.0,0.0,0.0,0.0,
+nasi pulen,1,karbohidrat,2,1,30,180.0,3.0,0.3,39.8,
+saus saus tomat,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+udang kulit,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+tepung serba mama suka,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+bawang putih cicang,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.165
+cabai kriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+pipih penyedap,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+rawit domba,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+sct santan kara,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+cabe merah rawit merah,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tepung roti bread crumps,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,
+nila,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+ikan kembung isi ikan,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+ketumbar pake,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+cabe kriting hijau,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tongkol,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+cabai rawit keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+mie telur mie urai,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+sapi lada hitam,1,rempah,365,365,0,0.0,0.0,0.0,0.0,69.927
+telur ayam kampung telur boiler,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+ikan tongkol basah,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+cabai kemiri,1,bumbu,7,2,30,636.0,19.0,63.0,8.0,7.954
+cabe merah pakek bji,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daging kambing paha,1,protein_hewani,3,0,120,154.0,16.6,9.2,0.0,38.779
+jahe keprek,1,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+serei keprek,1,rempah,14,5,60,0.0,0.0,0.0,0.0,
+tomat merah uksedang,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+kaldu bubuk royco ayam,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,3.576
+tepung kentaki instan sajiku,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+gula garam penyedap royko sapi,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,69.927
+parsley seledri,1,bumbu,7,2,0,20.0,1.0,0.1,4.6,
+daun batangnya batangnya daging daunnya sop,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,
+paprika,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,0.656
+kari bubuk,1,rempah,365,180,0,0.0,0.0,0.0,0.0,5.064
+olive oil minyak zaitun minyak,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+plastik tahu putih,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+tahu kuning isi,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+dorokdok kerupuk kulit,1,olahan,90,30,0,0.0,0.0,0.0,0.0,
+udang jdi,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+duo bawang,1,bumbu,30,14,0,29.0,1.8,0.7,5.2,
+saos indofood,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+kofte kebab,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+daging daging giling daging sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+garam kaldu penyedap suka,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kayu kayu bubuk gula pasir,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+minyak zaitun minyak teflon,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+saus tzatziki resep,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+french fries resep,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+selada,1,sayuran,5,1,0,15.0,1.2,0.2,2.9,0.419
+tomat bombai,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+tepung kobe fried chiken,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+garam bubuk cabe,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+ladaku bubuk,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+laja,1,rempah,14,7,60,0.0,0.0,0.0,0.0,1.076
+air kaldu dri godogan ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+kentang serela,1,sayuran,14,7,90,83.0,2.0,0.1,19.1,0.442
+bandeng isi,1,protein_hewani,2,0,90,189.0,11.3,15.7,0.6,
+cabe rawit merah level,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kunyit senti,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+jahe senti,1,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+kecap royco,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+santan bubuk merk sasa plus air,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+tulang kambing daging kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+pepaya,1,buah,5,2,30,0.0,0.0,0.0,0.0,0.401
+dada ayam filet,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+cabai setan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kentang uksedang,1,sayuran,14,7,90,83.0,2.0,0.1,19.1,0.442
+bihun jagung air,1,sayuran,3,1,90,360.0,4.7,0.1,82.1,0.565
+tepung serba,1,karbohidrat,365,180,0,364.0,7.0,0.5,80.0,
+bawang gorengan,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,
+kornet kemasan,1,olahan,5,1,60,0.0,0.0,0.0,0.0,
+daun bawang prei,1,bumbu,7,2,30,45.0,2.2,0.3,10.3,
+daging kambing iga sapi,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+minyak zaitun,1,bumbu,365,180,0,884.0,0.0,100.0,0.0,5.809
+saos inggris,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+garam gula merica bubuk kaldu,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+tepung maizena krn suka kental,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,1.574
+worter,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+ayam instan kuning,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+daun jeruk tdk,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+tongkol klo plstk tukang sayur,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+daun sop,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+mentega margarine,1,olahan,30,5,90,725.0,0.5,81.6,1.4,
+olive oil minyak bole,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+merica penyedap,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+tahu tahu kuning,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+desaku ketumbar,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+wortel kuecil,1,sayuran,14,3,90,0.0,0.0,0.0,0.0,0.285
+gula merica bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+ayam broiler,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+jerohan kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+saus cabai indo food,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daging kambing muda,1,protein_hewani,3,0,120,154.0,16.6,9.2,0.0,38.779
+gula sbg penggugah,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kulit lumpia spring roll pastry,1,karbohidrat,7,1,30,0.0,0.0,0.0,0.0,
+bubuk kari kari instant,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+blackpepper powder,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,4.52
+keras kemiri,1,rempah,30,14,60,636.0,19.0,63.0,8.0,7.954
+keranjang ikan tongkol,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+serai warna putih,1,rempah,14,5,60,0.0,0.0,0.0,0.0,
+iga kambing lamb,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+cabai rawit hijau,1,bumbu,5,2,30,0.0,0.0,0.0,0.0,
+kaldu instan,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+udang pacet,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+jeruk nipis lemon,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+gula merah kemanisanya,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+sejumput asam,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+sckp gula,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+sckp kecap,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+spagheti,1,karbohidrat,365,365,0,139.0,7.4,2.1,22.6,2.338
+seledri parsley,1,bumbu,7,2,0,20.0,1.0,0.1,4.6,
+gula merica,1,rempah,365,365,0,359.0,11.5,6.8,64.4,2.21
+lonjor tempe jgn,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+soon,1,karbohidrat,365,365,0,0.0,0.0,0.0,0.0,
+saori saos,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+sayap leher ayam suka,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.152
+tepung pencelup instan,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+udang kulit kepala,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+air jeruk,1,buah,14,7,0,48.0,0.6,0.2,12.4,
+tepung crispy hot spicy pake merk sasa,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+tepung crispy original pake merk kruawang thip thailand,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+ketobetic bread flour,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+baking soda,1,bumbu,365,365,0,0.0,0.0,0.0,0.0,
+kefir kental yogurt plain buttermilk,1,olahan,14,0,0,0.0,0.0,0.0,0.0,
+essence smoke beef toffieco,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+tuna low carbs,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+ikan tongkol asap,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+ayam paha sayap,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.041
+tempe ribuan,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+spaghetti fonte,1,karbohidrat,365,365,0,139.0,7.4,2.1,22.6,
+tuna ayam brand,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+ayam pejantan,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+kunyit kuning,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+pete selong,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,
+tahu tahu pong,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+cambah panjang,1,protein_nabati,3,1,0,0.0,0.0,0.0,0.0,
+cabe bubuk aida,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+tusuk sate kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+merica bubuk hitam,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+cabe orange,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+santan cair,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+kaldu bubuk kecap,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+botol sarden merk kingfish balado,1,olahan,5,1,60,0.0,0.0,0.0,0.0,
+lanjar kacang panjang,1,protein_nabati,90,30,0,0.0,0.0,0.0,0.0,0.857
+ketumbar bubuk,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+udang rebon,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+santan cair mangkuk,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+ruang lengkuas,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+kaldu bubuk dikit,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+labu,1,sayuran,14,7,0,0.0,0.0,0.0,0.0,0.528
+santan kelapa stengah krn gurih,1,olahan,3,0,30,0.0,0.0,0.0,0.0,6.639
+kunyit basah,1,rempah,14,7,60,63.0,2.0,2.7,9.1,5.064
+daun slm,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+lada pake ladaku,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+gula putih munjung,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+anak jagung pot,1,sayuran,3,1,90,0.0,0.0,0.0,0.0,0.565
+cabe merah bawang merah ulek,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+segengam daun jeruk,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+cabe merah setan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+royco masako,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+ladaku lada,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+saos abc,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+tumisan ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+kayu keningar,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+daun kari koro belek tdk,1,rempah,7,3,0,0.0,0.0,0.0,0.0,
+otak otak ikan,1,olahan,5,1,60,125.0,10.4,8.6,0.8,
+tri medan,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bawang putih gpp,1,bumbu,30,14,0,95.0,4.5,0.2,23.1,1.165
+chili padi,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+gule kari,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+utuh bawang daun,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tepung kentucky sasa,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+udang atasnya,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+sayat unt,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kulit tepung,1,karbohidrat,365,180,0,0.0,0.0,0.0,0.0,
+tempe cuman,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+petai keris,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,
+makaroni spiral,1,karbohidrat,365,365,0,363.0,8.7,0.4,78.7,
+susu sapi murni,1,protein_hewani,7,0,30,0.0,0.0,0.0,0.0,0.537
+penyedap sapi,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,69.927
+keju chedar pake keju mozzarella,1,olahan,30,1,90,326.0,22.8,20.3,13.1,
+udang tambak,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+sejumput garam gula,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+perasan air jeruk nipis,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+telor ayam kulitnya,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+tahu putih coklat,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+kaldu bubuk jamur ayam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+wortel pake keju,1,olahan,30,1,90,326.0,22.8,20.3,13.1,0.285
+tepung terigu tepung aren,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+saus tomat delmonte,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+saus cabe abc botolan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+selembar daun jeruk,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+daun jeruk tulang,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+sobek sobek,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+bawang bombai suka,1,bumbu,14,7,0,0.0,0.0,0.0,0.0,
+siuang bawang merah,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,0.715
+ikan pari asap,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,2.016
+kubis kol,1,sayuran,14,2,30,0.0,0.0,0.0,0.0,0.324
+kaldu ayam jamur bubuk,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+besek tongkol,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+tepung panir tepung,1,karbohidrat,90,30,0,0.0,0.0,0.0,0.0,
+seukuran jahe,1,rempah,21,14,60,51.0,1.5,1.0,10.1,1.2
+lengkuas seukuran,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+daun jeruk sobek,1,rempah,7,3,30,0.0,0.0,0.0,0.0,
+gula merah kelapa,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+sayap ayam drum stick,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.152
+air jeruk nipis lemon,1,buah,14,3,0,0.0,0.0,0.0,0.0,0.565
+ngo hiang,1,olahan,5,1,0,0.0,0.0,0.0,0.0,5.064
+tetes suclarose stevia drop,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+daun kuchai,1,sayuran,5,2,0,0.0,0.0,0.0,0.0,0.447
+chaipow lobak,1,sayuran,14,5,0,19.0,0.9,0.1,4.2,
+kecap cap kambing,1,protein_hewani,3,0,120,46.0,5.7,1.3,9.0,38.779
+telur kuningnya,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+tepung kriuk udang,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,9.912
+minyak mentega,1,olahan,30,5,90,725.0,0.5,81.6,1.4,
+saos sambel,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+tempe rupiyah,1,protein_nabati,5,2,30,0.0,0.0,0.0,0.0,0.699
+blimbing air,1,buah,7,2,0,0.0,0.0,0.0,0.0,
+cabe merah cabe keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kemiri sangray,1,rempah,30,14,60,636.0,19.0,63.0,8.0,7.954
+cabe rawit merah suka,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+gurami daging tulangnya,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,7.681
+dikit saos tiram,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+saos merah,1,bumbu,30,7,0,0.0,0.0,0.0,0.0,
+sarden abc,1,olahan,5,1,60,0.0,0.0,0.0,0.0,
+serai daun jeruk,1,rempah,14,5,60,0.0,0.0,0.0,0.0,
+penyedap ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+cabe merah suka,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+lengkuas laos,1,rempah,14,7,60,0.0,0.0,0.0,0.0,
+sejempol gula merah,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+dori fillet,1,olahan,5,1,0,0.0,0.0,0.0,0.0,1.338
+merica ketumbar,1,rempah,365,180,0,404.0,14.1,16.1,54.2,
+tomat ukurang,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+dada fillet,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,5.702
+pencelup cair terigu,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,
+garam royco,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ikan gurameh,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+fillet,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+daun ketumbar daun kemangi,1,bumbu,3,1,0,404.0,14.1,16.1,54.2,
+baby corn,1,sayuran,5,2,60,0.0,0.0,0.0,0.0,0.565
+cabai rawit kepedasan,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tahu kuning tahu putih,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+saos tomat saos,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+kaldu sapi pake royco masako,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,69.927
+remas,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+spaghetti,1,karbohidrat,365,365,0,139.0,7.4,2.1,22.6,2.338
+baso ikan,1,olahan,5,1,60,0.0,0.0,0.0,0.0,
+kecap sach,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+dark soy sauce,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,1.511
+kara,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+gula tdk,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ikan gurame beratnya,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+sepotong buntut iga segempal daging kambing,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,38.779
+daun bawang panjang,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+daun sledri panjang,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+garem gula lada,1,rempah,365,365,0,0.0,0.0,0.0,0.0,
+bawang sambel,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,
+ayam stengah garam bawang putih,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+merica bubuk merk ladaku,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+baking powder merk koepoe,1,bumbu,365,365,0,0.0,0.0,0.0,0.0,
+tepung maizena terigu,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.574
+tepung terigu maizena,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,1.492
+telur campuran ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+ikan patin asap,1,protein_hewani,2,0,90,144.0,17.5,6.3,4.3,
+daun bawang senthir,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,0.447
+gula gula pengganti,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kepala tuna,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+kacang panjang daun ubi,1,protein_nabati,90,30,0,34.0,4.1,0.4,5.8,0.857
+salmon fillet kulit,1,olahan,5,1,0,0.0,0.0,0.0,0.0,1.913
+kecap pilih merk jepang,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+mirin,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,1.511
+sake,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,1.511
+ayam paha atas,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,2.041
+bubuk kaldu royco ayam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+fillet ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,5.702
+ikan nila mujair,1,protein_hewani,2,0,90,0.0,0.0,0.0,0.0,7.681
+cabai rawit utuh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+garam gula merica bubuk,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+daun prey daun sop,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+ikan kembung sdh,1,protein_hewani,2,0,90,103.0,22.0,1.0,0.0,
+lonjor petai,1,sayuran,7,3,30,0.0,0.0,0.0,0.0,
+cabe rawit setan utuh,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+cabe rawit hijau utuh,1,bumbu,5,2,30,0.0,0.0,0.0,0.0,
+santan kara santan peras,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+kayu kalo,1,rempah,365,180,0,0.0,0.0,0.0,0.0,
+garam penyedap royco,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+ayam sederhana,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+ayam blender,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+cabau rawit,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+urap sayur,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+kelapa muda,1,buah,3,1,0,17.0,0.2,0.1,3.8,6.639
+urap blender,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+saus cabai,1,bumbu,30,14,0,0.0,0.0,0.0,0.0,1.61
+bawang merag,1,bumbu,30,14,0,39.0,1.5,0.3,0.2,0.715
+tahu putih bgks,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+bgks saos tiram,1,bumbu,365,30,0,0.0,0.0,0.0,0.0,
+cabe rawit cabe keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tahu putih tahu,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+tepung bakwan,1,karbohidrat,365,180,0,280.0,8.2,10.2,39.0,
+lada kecap,1,bumbu,365,180,0,46.0,5.7,1.3,9.0,1.511
+rollade ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+air jeruk nipis asam jawa,1,bumbu,180,90,0,0.0,0.0,0.0,0.0,0.565
+penyedap kaldu,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+bon cabe,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,
+saus tomat saus,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+kornet sapi ayam enak,1,olahan,5,1,60,302.0,18.2,25.0,0.0,69.927
+telur ayam uksedang,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+sejumput lada merica bubuk butiran,1,rempah,365,365,0,359.0,11.5,6.8,64.4,
+santan saji sun kara,1,olahan,5,0,30,0.0,0.0,0.0,0.0,6.639
+heali daun bawang,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+tahu surabaya,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+garam dapur,1,bumbu,1825,1825,0,0.0,0.0,0.0,0.0,
+kepala ayam,1,protein_hewani,3,0,120,302.0,18.2,25.0,0.0,3.576
+sawi ijo,1,sayuran,5,1,0,22.0,2.3,0.3,4.0,0.324
+orak arik,1,olahan,5,1,0,0.0,0.0,0.0,0.0,
+lombok merah keriting,1,bumbu,7,2,30,0.0,0.0,0.0,0.0,
+kuning telor,1,protein_hewani,21,7,0,0.0,0.0,0.0,0.0,1.075
+tahu putih segitiga,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+tahu tahu basah,1,protein_nabati,3,1,30,68.0,7.8,4.6,1.6,1.411
+kaldu ayam bubuk garam,1,protein_hewani,3,0,120,0.0,0.0,0.0,0.0,3.576
+kunyit bubuk,1,rempah,365,180,0,63.0,2.0,2.7,9.1,5.064
+tomat cabe rawit,1,sayuran,7,3,0,0.0,0.0,0.0,0.0,0.449
+labusiam,1,sayuran,14,7,0,26.0,0.6,0.1,6.7,0.528
+royko masako,1,bumbu,365,180,0,0.0,0.0,0.0,0.0,

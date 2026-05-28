@@ -1,0 +1,2146 @@
+{
+    "lada_manis_merah_mentah": {
+        "co2e_per_kg": 0.656,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tomat_matang_mentah_asal_tidak_diketahui": {
+        "co2e_per_kg": 0.449,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "labu_mentah": {
+        "co2e_per_kg": 0.528,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "terong_mentah": {
+        "co2e_per_kg": 0.606,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tomat_dikeringkan": {
+        "co2e_per_kg": 2.654,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mentimun_mentah": {
+        "co2e_per_kg": 0.426,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mentimun_ketimun_mentah": {
+        "co2e_per_kg": 0.426,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "merica_cabai_pedas_mentah": {
+        "co2e_per_kg": 0.656,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tutup_bagian_atas_daging_sapi_mentah": {
+        "co2e_per_kg": 63.366,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "fillet_daging_sapi_dihilangkan_lemaknya_mentah": {
+        "co2e_per_kg": 212.922,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_cincang_10-15%_lemak_mentah": {
+        "co2e_per_kg": 44.84,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pantat_sapi_mentah": {
+        "co2e_per_kg": 63.366,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_cincang_15-20%_lemak_mentah": {
+        "co2e_per_kg": 42.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "steak_daging_sapi_t-bone_mentah": {
+        "co2e_per_kg": 112.903,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_cincang_5-10%_lemak_mentah": {
+        "co2e_per_kg": 47.228,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bir_bir_alc._44_%_menurut_jilid.": {
+        "co2e_per_kg": 0.693,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bir_rumah_tangga_denmark_alkohol_rendah": {
+        "co2e_per_kg": 0.693,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bir_kuat_alc._76_%_menurut_jilid.": {
+        "co2e_per_kg": 0.693,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biskuit_manis": {
+        "co2e_per_kg": 3.109,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jenis_pencernaan_biskuit_gandum": {
+        "co2e_per_kg": 2.967,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_mentega_gandum_denmark_diproduksi_secara_industri": {
+        "co2e_per_kg": 3.427,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_yang_terinspirasi_dari_amerika": {
+        "co2e_per_kg": 2.967,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "batangan_granola": {
+        "co2e_per_kg": 6.027,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tongkat_wafer": {
+        "co2e_per_kg": 2.79,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tepung_roti": {
+        "co2e_per_kg": 2.302,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_renyah_knackebrot_gandum_hitam_kasar": {
+        "co2e_per_kg": 2.53,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_gandum_untuk_dipanggang_diproduksi_secara_industri": {
+        "co2e_per_kg": 1.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_putih_untuk_sosis": {
+        "co2e_per_kg": 1.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_putih_gulung_butiran_kasar": {
+        "co2e_per_kg": 1.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_gandum_hitam_biji-bijian_utuh_berwarna_gelap_diproduksi_secara_industri": {
+        "co2e_per_kg": 1.603,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "remah_roti_gandum_hitam_dengan_nilai_rata-rata_gula_merah": {
+        "co2e_per_kg": 2.77,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_serpihan_jagung": {
+        "co2e_per_kg": 2.482,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_sereal_sarapan_m\u00e3\u00bcsli": {
+        "co2e_per_kg": 2.677,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sereal_sarapan_guldkorn": {
+        "co2e_per_kg": 2.957,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sarapan_sereal_havrefras": {
+        "co2e_per_kg": 2.408,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "garam_mentega_ditambahkan": {
+        "co2e_per_kg": 3.299,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "dicampur_menyebarkan_75%_lemak": {
+        "co2e_per_kg": 3.233,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_coklat_kue_polos": {
+        "co2e_per_kg": 2.376,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_denmark_kanelsnegl": {
+        "co2e_per_kg": 2.084,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_kue_polos": {
+        "co2e_per_kg": 2.376,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_lapis_kue_krim": {
+        "co2e_per_kg": 2.376,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "produk_kue_truffle_/_belum_dipanggang_diproduksi_secara_industri": {
+        "co2e_per_kg": 4.018,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bacon_digoreng_mentah": {
+        "co2e_per_kg": 6.365,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salami_sosis": {
+        "co2e_per_kg": 5.832,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ham_babi_rebus_diiris": {
+        "co2e_per_kg": 4.243,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_panggang_diiris": {
+        "co2e_per_kg": 63.524,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_babi_denmark_mentah": {
+        "co2e_per_kg": 2.71,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_hati_babi_denmark": {
+        "co2e_per_kg": 4.395,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sayap_babi_yang_dibumbui_matang": {
+        "co2e_per_kg": 4.243,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_babi_th\u00e3\u00bcringer_bratwurst": {
+        "co2e_per_kg": 2.144,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "dada_ayam_rebus_diiris-iris": {
+        "co2e_per_kg": 5.24,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_kaki_ayam_dan_kulit_mentah": {
+        "co2e_per_kg": 2.152,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_paha_ayam_dan_kulit_mentah": {
+        "co2e_per_kg": 2.041,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_dada_ayam_dan_kulit_mentah": {
+        "co2e_per_kg": 5.702,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_ayam": {
+        "co2e_per_kg": 2.08,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_ayam_ayam_dan_kulit_mentah": {
+        "co2e_per_kg": 3.576,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daun_teh": {
+        "co2e_per_kg": 19.687,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kopi_bubuk_instan": {
+        "co2e_per_kg": 16.891,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_kopi_yang_disangrai_digiling": {
+        "co2e_per_kg": 7.057,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "coklat_instan_tanpa_susu_bubuk": {
+        "co2e_per_kg": 16.731,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "coklat_bubuk": {
+        "co2e_per_kg": 16.731,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sayap_domba_yang_dibumbui_matang": {
+        "co2e_per_kg": 34.876,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salami_daging_sapi_sosis": {
+        "co2e_per_kg": 46.187,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pelana_babi_asap_rebus": {
+        "co2e_per_kg": 4.243,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minyak_saus_salad_dan_cuka": {
+        "co2e_per_kg": 3.439,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_salad_pulau_seribu": {
+        "co2e_per_kg": 3.147,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_minum_keran_air": {
+        "co2e_per_kg": 0.001,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_bebek_hanya_mentah": {
+        "co2e_per_kg": 3.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_angsa_hanya_mentah": {
+        "co2e_per_kg": 3.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_mayones_makarel": {
+        "co2e_per_kg": 2.354,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_gravad_longgar": {
+        "co2e_per_kg": 1.678,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_mayones_italia": {
+        "co2e_per_kg": 3.075,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_mayones_kari": {
+        "co2e_per_kg": 3.075,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "yogurt_susu_murni_biasa": {
+        "co2e_per_kg": 0.731,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "krim_berbudaya_18_%_lemak": {
+        "co2e_per_kg": 1.562,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "skyr_02_%_lemak": {
+        "co2e_per_kg": 1.059,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "perusahaan_keju_danbo_45_%_fidm.": {
+        "co2e_per_kg": 5.96,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_parmesan_keras_32_%_fidm.": {
+        "co2e_per_kg": 5.96,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_semihard_mozzarella_30%_fidm.": {
+        "co2e_per_kg": 5.96,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ikan_haring_acar_kalengan": {
+        "co2e_per_kg": 5.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bakso_ikan_kalengan": {
+        "co2e_per_kg": 2.011,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "puding_ikan_mentah": {
+        "co2e_per_kg": 2.741,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "hati_ikan_kod_kalengan": {
+        "co2e_per_kg": 10.83,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "telur_ikan_kod_kalengan": {
+        "co2e_per_kg": 4.284,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "udang_kalengan": {
+        "co2e_per_kg": 9.815,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "fillet_ikan_cod_dilapisi_tepung_roti_mentah": {
+        "co2e_per_kg": 2.302,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kaviar_denmark_(pengisap_gumpalan_telur)": {
+        "co2e_per_kg": 3.448,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_ikan_goreng": {
+        "co2e_per_kg": 3.235,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "hati_ikan_kod_dihisap": {
+        "co2e_per_kg": 3.242,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "hati_ikan_kod_mentah": {
+        "co2e_per_kg": 2.466,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lobster_kalengan": {
+        "co2e_per_kg": 6.71,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kerang_dalam_air_kalengan": {
+        "co2e_per_kg": 2.056,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tuna_dalam_saus_tomat_kalengan": {
+        "co2e_per_kg": 3.362,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "telur_ikan_kod_mentah": {
+        "co2e_per_kg": 3.426,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_cakar_kepiting_mentah": {
+        "co2e_per_kg": 9.76,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kaviar_terbuat_dari_telur_capelin": {
+        "co2e_per_kg": 3.426,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tuna_dalam_air_kalengan": {
+        "co2e_per_kg": 2.891,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "halibut_greenland_merokok": {
+        "co2e_per_kg": 2.558,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "fillet_ikan_dilapisi_tepung_roti": {
+        "co2e_per_kg": 2.668,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jari_ikan_dilapisi_tepung_roti_beku": {
+        "co2e_per_kg": 2.445,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tepung_gandum_hitam_seluruh_makanan_gelap": {
+        "co2e_per_kg": 1.818,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tepung_gandum_utuh": {
+        "co2e_per_kg": 1.492,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_gandum_hitam_utuh/retak": {
+        "co2e_per_kg": 1.818,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_gandum_utuh/retak": {
+        "co2e_per_kg": 1.492,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tepung_beras": {
+        "co2e_per_kg": 4.326,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tepung_jagung": {
+        "co2e_per_kg": 1.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "telur_ayam_kampung_ayam_kampung_(dalam_ruangan)_mentah": {
+        "co2e_per_kg": 1.075,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "burbot_mentah": {
+        "co2e_per_kg": 6.825,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bertengger_mentah": {
+        "co2e_per_kg": 3.942,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tombak_mentah": {
+        "co2e_per_kg": 3.54,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ikan_air_tawar_mentah": {
+        "co2e_per_kg": 7.681,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "arang_mentah": {
+        "co2e_per_kg": 6.644,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ikan_trout_mentah": {
+        "co2e_per_kg": 1.338,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bandeng_hering_mentah": {
+        "co2e_per_kg": 6.821,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jus_buah_campur_manis_pekat": {
+        "co2e_per_kg": 2.412,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jus_elderberry_ditambahkan_gula_pekat": {
+        "co2e_per_kg": 3.869,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "zaitun_hijau_acar_kalengan": {
+        "co2e_per_kg": 2.008,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pir_kalengan": {
+        "co2e_per_kg": 0.81,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_kacang_dengan_olesan_kakao": {
+        "co2e_per_kg": 5.215,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jus_jeruk_kalengan": {
+        "co2e_per_kg": 1.368,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nanas_kalengan": {
+        "co2e_per_kg": 1.094,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "selai_stroberi": {
+        "co2e_per_kg": 1.912,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kismis_tanpa_biji": {
+        "co2e_per_kg": 3.549,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "selai_raspberry": {
+        "co2e_per_kg": 1.912,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kelinci_mentah": {
+        "co2e_per_kg": 3.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_kelinci_hanya_mentah": {
+        "co2e_per_kg": 3.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_dan_kulit_burung_pegar_mentah": {
+        "co2e_per_kg": 3.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "squab_(merpati)_mentah": {
+        "co2e_per_kg": 3.574,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "menir_jelai_mentah": {
+        "co2e_per_kg": 2.055,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "oat_yang_digulung_tidak_diperkaya": {
+        "co2e_per_kg": 2.446,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "menir_nasi_mentah": {
+        "co2e_per_kg": 4.298,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "peterseli_mentah": {
+        "co2e_per_kg": 0.419,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "adas_mentah": {
+        "co2e_per_kg": 0.419,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_putih_mentah": {
+        "co2e_per_kg": 1.165,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daun_bawang_mentah": {
+        "co2e_per_kg": 0.447,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kebun_selada_mentah": {
+        "co2e_per_kg": 0.419,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "zaitun_hitam_tanpa_batu_dalam_air_garam": {
+        "co2e_per_kg": 2.008,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kemiri_dikeringkan": {
+        "co2e_per_kg": 7.954,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_bunga_matahari_dihias_kering": {
+        "co2e_per_kg": 3.352,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_wijen_dihias": {
+        "co2e_per_kg": 7.46,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kenari_dikeringkan": {
+        "co2e_per_kg": 4.908,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_mete_panggang_kering": {
+        "co2e_per_kg": 13.718,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_labu_dikeringkan": {
+        "co2e_per_kg": 4.908,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sayang": {
+        "co2e_per_kg": 0.72,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "produk_susu_es_krim_(berbahan_dasar_susu_utuh)": {
+        "co2e_per_kg": 2.775,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "es_krim_susu_(berbasis_krim)": {
+        "co2e_per_kg": 2.775,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "limun_es_loli": {
+        "co2e_per_kg": 1.271,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "cuka": {
+        "co2e_per_kg": 1.509,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "meja_garam": {
+        "co2e_per_kg": 0.363,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kelembak_mentah": {
+        "co2e_per_kg": 0.368,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "seledri_mentah": {
+        "co2e_per_kg": 0.368,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kembang_kol_semua_varietas_mentah": {
+        "co2e_per_kg": 0.539,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "brokoli_mentah": {
+        "co2e_per_kg": 0.539,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kangkung_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_putih_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_brussel_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_merah_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_musim_semi_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bayam_mentah": {
+        "co2e_per_kg": 0.471,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "artichoke_mentah": {
+        "co2e_per_kg": 0.967,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "asparagus_hijau_mentah": {
+        "co2e_per_kg": 1.123,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "selada_gunung_es_(termasuk_jenis_crisphead)_mentah": {
+        "co2e_per_kg": 0.437,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "selada_looseleaf_mentah": {
+        "co2e_per_kg": 0.437,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_pak-choi_cina_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_savoy_mentah": {
+        "co2e_per_kg": 0.324,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kembang_kol_beku": {
+        "co2e_per_kg": 0.783,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bayam_cincang_beku": {
+        "co2e_per_kg": 0.698,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "brokoli_beku": {
+        "co2e_per_kg": 0.783,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lilin_kacang_mentah": {
+        "co2e_per_kg": 0.857,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_polong_hijau_mentah": {
+        "co2e_per_kg": 1.261,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lentil_hijau_dikeringkan": {
+        "co2e_per_kg": 3.527,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_polong_cewek/garbanzo_kering_mentah": {
+        "co2e_per_kg": 3.405,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_hijau_mentah": {
+        "co2e_per_kg": 0.857,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tauge_hijau_mentah": {
+        "co2e_per_kg": 0.857,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_tauge_mentah": {
+        "co2e_per_kg": 0.857,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_gula_(mangetout_kacang_salju)_mentah": {
+        "co2e_per_kg": 1.311,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_kedelai_kering_mentah": {
+        "co2e_per_kg": 1.754,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_polong_hijau_beku": {
+        "co2e_per_kg": 1.682,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "botol_air_berkarbonasi": {
+        "co2e_per_kg": 0.198,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minuman_ringan_ditambahkan_gula": {
+        "co2e_per_kg": 0.541,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jus_apel_kalengan_atau_botolan": {
+        "co2e_per_kg": 1.564,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sherry_kering": {
+        "co2e_per_kg": 2.715,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kopi_minuman_keras_dengan_krim": {
+        "co2e_per_kg": 3.286,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "margarin_meja_70%_lemak_menggunakan_lemak_nabati_lunak": {
+        "co2e_per_kg": 2.524,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ikan_garfish_mentah": {
+        "co2e_per_kg": 2.322,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salmon_atlantik_liar_mentah": {
+        "co2e_per_kg": 1.915,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makarel_mentah": {
+        "co2e_per_kg": 1.83,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "letakkan_mentah": {
+        "co2e_per_kg": 2.463,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ikan_haring_mentah": {
+        "co2e_per_kg": 2.016,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "katakan_mentah": {
+        "co2e_per_kg": 2.463,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "fillet_ikan_kod_mentah": {
+        "co2e_per_kg": 2.466,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "fillet_plaice_dilapisi_tepung_roti_dybfrost": {
+        "co2e_per_kg": 2.438,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saithe_(uk)_pollock_(kami)_fillet_beku": {
+        "co2e_per_kg": 2.471,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tuna_mentah": {
+        "co2e_per_kg": 2.696,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "budidaya_ikan_salmon_atlantik_diasap_dingin": {
+        "co2e_per_kg": 2.73,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "budidaya_salmon_atlantik_diasap_panas": {
+        "co2e_per_kg": 3.037,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "budidaya_ikan_salmon_atlantik_mentah": {
+        "co2e_per_kg": 1.913,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mayones_rendah_lemak": {
+        "co2e_per_kg": 1.053,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mayones": {
+        "co2e_per_kg": 3.075,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "remoulade_nilai_rata-rata": {
+        "co2e_per_kg": 1.789,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tiram_mentah": {
+        "co2e_per_kg": 0.823,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kerang_mentah": {
+        "co2e_per_kg": 0.181,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "gurita_mentah": {
+        "co2e_per_kg": 0.349,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jamur_mentah": {
+        "co2e_per_kg": 0.321,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jamur_tiram": {
+        "co2e_per_kg": 0.321,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_almond_tidak_difortifikasi": {
+        "co2e_per_kg": 0.738,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_beras_dengan_tambahan_kalsium": {
+        "co2e_per_kg": 1.222,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "oatmilk_dengan_tambahan_kalsium": {
+        "co2e_per_kg": 0.472,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_kedelai_dengan_tambahan_kalsium": {
+        "co2e_per_kg": 0.389,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kaldu_ayam_sudah_siap": {
+        "co2e_per_kg": 0.398,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bakso_kalengan": {
+        "co2e_per_kg": 15.201,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kaldu_daging_sapi_sudah_disiapkan": {
+        "co2e_per_kg": 0.582,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_bakso": {
+        "co2e_per_kg": 15.201,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_pangsit": {
+        "co2e_per_kg": 1.398,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bola_daging_beku": {
+        "co2e_per_kg": 15.035,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sup_tomat_siap_disantap": {
+        "co2e_per_kg": 2.144,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubus_pekat_kaldu_daging_sapi": {
+        "co2e_per_kg": 9.24,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pangsit_beku": {
+        "co2e_per_kg": 1.522,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_cepat_saji_ayam_panggang": {
+        "co2e_per_kg": 5.471,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nugget_ayam_makanan_siap_saji_goreng": {
+        "co2e_per_kg": 5.058,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_makanan_siap_saji_tomat_dan_keju": {
+        "co2e_per_kg": 2.556,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_makanan_siap_saji_tomat_seafood_dan_keju": {
+        "co2e_per_kg": 3.737,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_salami_tomat_dan_keju_makanan_siap_saji": {
+        "co2e_per_kg": 3.238,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_sayuran_buah_tomat_dan_keju_makanan_siap_saji": {
+        "co2e_per_kg": 2.461,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_daging_tomat_dan_keju_makanan_siap_saji": {
+        "co2e_per_kg": 4.583,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_daging_dan_makanan_laut_tomat_dan_keju_makanan_siap_saji": {
+        "co2e_per_kg": 4.158,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_muda_dan_babi_cincang_15-20%_lemak_mentah": {
+        "co2e_per_kg": 20.69,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_kambing": {
+        "co2e_per_kg": 1.341,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "marzipan": {
+        "co2e_per_kg": 16.56,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "dapur_sirup": {
+        "co2e_per_kg": 1.682,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_mentah": {
+        "co2e_per_kg": 2.338,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "apel_mentah_semua_varietas": {
+        "co2e_per_kg": 0.535,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pir_mentah": {
+        "co2e_per_kg": 0.444,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "anggur_mentah": {
+        "co2e_per_kg": 0.82,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kerah_babi_dengan_kulit_mentah": {
+        "co2e_per_kg": 4.59,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bagian_atas_ham_babi_(m._semimembranosus)_tanpa_lemak_mentah": {
+        "co2e_per_kg": 4.59,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pinggang_babi_tanpa_lemak_mentah": {
+        "co2e_per_kg": 5.478,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tenderloin_babi_dipotong_mentah": {
+        "co2e_per_kg": 7.253,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_babi_cincang_5-10%_lemak_mentah": {
+        "co2e_per_kg": 3.635,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kerah_babi_dihilangkan_lemaknya_mentah": {
+        "co2e_per_kg": 4.646,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_babi_cincang_15-20%_lemak_mentah": {
+        "co2e_per_kg": 3.705,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jenis_saus_spageti_daging_cincang_nilai_rata-rata_makanan_siap_saji": {
+        "co2e_per_kg": 18.63,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kura-kura_palsu_nilai_rata-rata_makanan_siap_saji": {
+        "co2e_per_kg": 24.678,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lumpia_makanan_siap_saji_beku": {
+        "co2e_per_kg": 3.193,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_babi_dalam_saus_kari_makanan_siap_saji_beku": {
+        "co2e_per_kg": 4.858,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_romana_makanan_siap_saji_beku": {
+        "co2e_per_kg": 2.923,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "hati_babi_dalam_saus_krim_makanan_siap_saji_beku": {
+        "co2e_per_kg": 3.167,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_napolitana_makanan_siap_saji_beku": {
+        "co2e_per_kg": 2.661,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lumpia_goreng_siap_saji": {
+        "co2e_per_kg": 3.193,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_brokoli_makanan_siap_saji_beku": {
+        "co2e_per_kg": 2.566,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pizza_dengan_makanan_siap_saji_beku_tuna": {
+        "co2e_per_kg": 2.492,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_babi_cincang_dan_diikat_dengan_tepung_dan_telur_rebus_makanan_siap_saji_beku": {
+        "co2e_per_kg": 2.469,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kentang_mentah": {
+        "co2e_per_kg": 0.442,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "wortel_mentah": {
+        "co2e_per_kg": 0.285,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lobak_mentah": {
+        "co2e_per_kg": 0.285,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bit_merah_mentah": {
+        "co2e_per_kg": 0.316,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "akar_seledri_seledri_mentah": {
+        "co2e_per_kg": 0.368,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "akar_jahe_mentah": {
+        "co2e_per_kg": 1.2,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "akar_adas_mentah": {
+        "co2e_per_kg": 0.153,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_bombay_dicincang_beku": {
+        "co2e_per_kg": 0.477,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "wortel_beku": {
+        "co2e_per_kg": 0.466,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_mentah": {
+        "co2e_per_kg": 0.294,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_bombay_musim_semi_mentah": {
+        "co2e_per_kg": 0.715,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "singkong_mentah": {
+        "co2e_per_kg": 0.881,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "akar_peterseli_mentah": {
+        "co2e_per_kg": 1.076,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_semihard_feta_40%_fidm": {
+        "co2e_per_kg": 1.361,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_biru_denmark_50%_fidm.": {
+        "co2e_per_kg": 5.96,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kaki_domba_tidak_ditentukan_mentah": {
+        "co2e_per_kg": 38.779,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_daging_domba_mentah": {
+        "co2e_per_kg": 38.779,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "udang_karang_mentah": {
+        "co2e_per_kg": 2.453,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "udang_rebus_dikupas_kulitnya": {
+        "co2e_per_kg": 8.108,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lobster_mentah": {
+        "co2e_per_kg": 2.453,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kepiting_direbus": {
+        "co2e_per_kg": 4.35,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "budidaya_udang_harimau_raksasa_rebus_beku": {
+        "co2e_per_kg": 9.912,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "udang_direbus_dalam_air_garam": {
+        "co2e_per_kg": 8.117,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minyak_pop_corn_dan_garam_ditambahkan_tradisional": {
+        "co2e_per_kg": 1.48,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minyak_kacang_tanah_dipanggang_dan_diasinkan": {
+        "co2e_per_kg": 3.33,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "stroberi_mentah": {
+        "co2e_per_kg": 0.482,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "raspberi_mentah": {
+        "co2e_per_kg": 1.258,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kismis_hitam_mentah": {
+        "co2e_per_kg": 1.149,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "blueberry_mentah": {
+        "co2e_per_kg": 1.074,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "blackberry_mentah": {
+        "co2e_per_kg": 1.366,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "naik_pinggul_mentah": {
+        "co2e_per_kg": 1.024,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "elderberry_mentah": {
+        "co2e_per_kg": 1.366,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kismis_merah_mentah": {
+        "co2e_per_kg": 1.149,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "gooseberry_mentah": {
+        "co2e_per_kg": 1.261,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "stroberi_beku_tanpa_pemanis": {
+        "co2e_per_kg": 0.572,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "cranberry_mentah": {
+        "co2e_per_kg": 0.81,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "blueberry_beku_tanpa_pemanis": {
+        "co2e_per_kg": 1.162,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "raspberi_beku": {
+        "co2e_per_kg": 1.583,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "krim_keju_60%_fidm.": {
+        "co2e_per_kg": 5.96,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_brie_45%_fidm.": {
+        "co2e_per_kg": 1.361,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_cottage_20%_fidm.": {
+        "co2e_per_kg": 1.361,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bulgur_dimasak_setengah_matang_mentah": {
+        "co2e_per_kg": 2.254,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "biji_jagung_manis_kalengan": {
+        "co2e_per_kg": 0.565,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nasi_setengah_matang_mentah": {
+        "co2e_per_kg": 4.309,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "quinoa_hitam_mentah": {
+        "co2e_per_kg": 4.748,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lada_hitam": {
+        "co2e_per_kg": 4.52,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kuning_sawi_siap_pakai": {
+        "co2e_per_kg": 1.583,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bubuk_kari": {
+        "co2e_per_kg": 5.064,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "gammel_pahit_dansk_drama_pahit": {
+        "co2e_per_kg": 3.385,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "brendi_cognac": {
+        "co2e_per_kg": 5.617,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "vodka": {
+        "co2e_per_kg": 3.385,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "aquavit_40%_vol._nilai_rata-rata": {
+        "co2e_per_kg": 3.385,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "prem_mentah": {
+        "co2e_per_kg": 0.58,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ceri_mentah": {
+        "co2e_per_kg": 1.168,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kastanye_mentah": {
+        "co2e_per_kg": 3.426,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pangkas_plum_kering": {
+        "co2e_per_kg": 2.72,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "aprikot_kering": {
+        "co2e_per_kg": 2.72,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "aprikot_mentah": {
+        "co2e_per_kg": 0.695,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "buah_persik_mentah": {
+        "co2e_per_kg": 0.581,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nektarin_mentah": {
+        "co2e_per_kg": 0.581,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "alpukat_mentah": {
+        "co2e_per_kg": 1.077,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "gula_sukrosa_putih": {
+        "co2e_per_kg": 2.393,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "gula_merah": {
+        "co2e_per_kg": 2.21,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_coklat": {
+        "co2e_per_kg": 5.365,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nougat": {
+        "co2e_per_kg": 6.599,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "permen_karet_tanpa_gula_ditambahkan_semua_jenis": {
+        "co2e_per_kg": 5.266,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "permen_dicampur": {
+        "co2e_per_kg": 2.98,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "coklat_pahit": {
+        "co2e_per_kg": 8.163,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "garam_akar_manis": {
+        "co2e_per_kg": 2.528,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "permen_karet_buah": {
+        "co2e_per_kg": 2.528,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pisang_mentah": {
+        "co2e_per_kg": 0.842,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lemon_mentah": {
+        "co2e_per_kg": 0.616,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "semangka_mentah": {
+        "co2e_per_kg": 0.369,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jeruk_mentah": {
+        "co2e_per_kg": 0.529,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "melon_mentah": {
+        "co2e_per_kg": 0.401,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jeruk_nipis_mentah": {
+        "co2e_per_kg": 0.565,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nanas_mentah": {
+        "co2e_per_kg": 0.701,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mangga_mentah": {
+        "co2e_per_kg": 1.077,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jeruk_bali_mentah": {
+        "co2e_per_kg": 0.611,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jeruk_keprok_mentah": {
+        "co2e_per_kg": 0.583,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "buah_kiwi_mentah": {
+        "co2e_per_kg": 0.725,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "dada_kalkun_direbus/diasapi_diiris": {
+        "co2e_per_kg": 4.77,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_kalkun_hanya_mentah": {
+        "co2e_per_kg": 5.18,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kalkun_cincang_5-10%_lemak_mentah": {
+        "co2e_per_kg": 5.111,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_utuh_konvensional_(bukan_organik)_35_%_lemak": {
+        "co2e_per_kg": 0.537,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_skim_sebagian_konvensional_(bukan_organik)_15_%_lemak": {
+        "co2e_per_kg": 0.485,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_skim_05%_lemak": {
+        "co2e_per_kg": 0.451,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "susu_skim_dengan_coklat_(uht)": {
+        "co2e_per_kg": 0.761,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "krim_kocok_38_%_lemak": {
+        "co2e_per_kg": 1.731,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_muda_berlemak_sedang_mentah": {
+        "co2e_per_kg": 69.927,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "selai_kacang": {
+        "co2e_per_kg": 3.71,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minyak_bunga_matahari": {
+        "co2e_per_kg": 2.808,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minyak_zaitun": {
+        "co2e_per_kg": 5.809,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minyak_biji_lobak_(tanpa_asam_eruca)": {
+        "co2e_per_kg": 3.392,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_bombay_dicincang_dan_digoreng": {
+        "co2e_per_kg": 4.236,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keripik_kentang_kasar": {
+        "co2e_per_kg": 3.052,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tahu_tahu_tahu_tahu": {
+        "co2e_per_kg": 1.411,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lentil_tumbuh_mentah": {
+        "co2e_per_kg": 3.424,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kubis_merah_kalengan_tanpa_tambahan_gula": {
+        "co2e_per_kg": 0.698,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jus_tomat_kalengan": {
+        "co2e_per_kg": 0.879,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "acar_ketimun": {
+        "co2e_per_kg": 2.88,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kentang_tumbuk_bubuk_instan_dengan_susu_kering": {
+        "co2e_per_kg": 5.632,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lada_cabai_pedas_kalengan": {
+        "co2e_per_kg": 1.376,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mentimun_acar_besar": {
+        "co2e_per_kg": 2.88,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tomat_kupas_kalengan": {
+        "co2e_per_kg": 0.879,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bit_merah_kalengan": {
+        "co2e_per_kg": 0.685,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kentang_kalengan": {
+        "co2e_per_kg": 0.887,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keripik_kentang": {
+        "co2e_per_kg": 3.052,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "rebung_kalengan_tanpa_garam": {
+        "co2e_per_kg": 1.679,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jamur_kalengan": {
+        "co2e_per_kg": 0.456,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kentang_goreng_makanan_cepat_saji_goreng": {
+        "co2e_per_kg": 2.058,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_tomat_pekat": {
+        "co2e_per_kg": 2.432,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "botol_saus_tomat": {
+        "co2e_per_kg": 1.903,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_panggang_dan_saus_tomat_kalengan": {
+        "co2e_per_kg": 1.773,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tepung_kentang": {
+        "co2e_per_kg": 1.769,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_polong_hijau_kalengan": {
+        "co2e_per_kg": 2.197,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kecap": {
+        "co2e_per_kg": 1.511,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_barbeque": {
+        "co2e_per_kg": 1.915,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nilai_rata-rata_anggur_putih": {
+        "co2e_per_kg": 1.595,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "anggur_ros\u00e3\u00a9": {
+        "co2e_per_kg": 1.595,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "anggur_merah": {
+        "co2e_per_kg": 1.595,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sampanye_berkilau_putih_anggur": {
+        "co2e_per_kg": 1.595,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ragi_pembuat_roti_dikompres": {
+        "co2e_per_kg": 0.793,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_koktail": {
+        "co2e_per_kg": 2.144,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pesto": {
+        "co2e_per_kg": 4.153,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_daging_sapi_lasagna": {
+        "co2e_per_kg": 11.592,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_vegetarian_lasagna": {
+        "co2e_per_kg": 1.687,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daal_makanan_siap_saji": {
+        "co2e_per_kg": 2.119,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_sushi": {
+        "co2e_per_kg": 2.164,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ayam_cincang": {
+        "co2e_per_kg": 6.284,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "adonan_pizza": {
+        "co2e_per_kg": 1.227,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bayam_fettucine_pasta_segar": {
+        "co2e_per_kg": 1.787,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_tuna": {
+        "co2e_per_kg": 1.908,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_telur": {
+        "co2e_per_kg": 1.569,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bakso": {
+        "co2e_per_kg": 3.739,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "hummus_selesai": {
+        "co2e_per_kg": 2.239,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_lasagna_vegan": {
+        "co2e_per_kg": 1.623,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pancake_makanan_siap_saji": {
+        "co2e_per_kg": 2.713,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kentang_gratin/krim_kentang": {
+        "co2e_per_kg": 1.24,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kebab": {
+        "co2e_per_kg": 50.474,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "es_teh_persik": {
+        "co2e_per_kg": 0.891,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minuman_energi": {
+        "co2e_per_kg": 0.56,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "soda_beralkohol_4%": {
+        "co2e_per_kg": 0.855,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salsa_panas": {
+        "co2e_per_kg": 1.022,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_tortilla_gandum": {
+        "co2e_per_kg": 1.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_pizza": {
+        "co2e_per_kg": 1.579,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_pasta": {
+        "co2e_per_kg": 1.579,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "santan": {
+        "co2e_per_kg": 6.639,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "baguette_bawang_putih_beku": {
+        "co2e_per_kg": 1.747,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "coklat_batangan_muesli": {
+        "co2e_per_kg": 3.379,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "cangkir_mie_ayam": {
+        "co2e_per_kg": 2.108,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "irisan_jamur": {
+        "co2e_per_kg": 0.266,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "popcorn_microwave": {
+        "co2e_per_kg": 1.759,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ayam_kari_panang_makanan_thailand": {
+        "co2e_per_kg": 3.688,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kentang_goreng_beku": {
+        "co2e_per_kg": 0.917,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kue_pancake": {
+        "co2e_per_kg": 1.784,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "buncis_kalengan": {
+        "co2e_per_kg": 0.977,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "embun_beku_kacang_hijau": {
+        "co2e_per_kg": 2.155,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_keripik_tortilla": {
+        "co2e_per_kg": 2.39,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "irisan_asparagus": {
+        "co2e_per_kg": 1.697,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tongkol_jagung": {
+        "co2e_per_kg": 0.935,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_arugula_dibilas": {
+        "co2e_per_kg": 0.507,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tapenade_zaitun": {
+        "co2e_per_kg": 2.694,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "isi_pasta_segar": {
+        "co2e_per_kg": 2.051,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "peperoni": {
+        "co2e_per_kg": 5.832,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_merah": {
+        "co2e_per_kg": 1.152,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ayam_utuh": {
+        "co2e_per_kg": 3.576,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "irisan_chorizo": {
+        "co2e_per_kg": 5.793,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_kentang": {
+        "co2e_per_kg": 1.281,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sari_buah_apel_45%": {
+        "co2e_per_kg": 1.059,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "es_falafel": {
+        "co2e_per_kg": 2.184,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_daging_sapi_hotchpotch_kentang": {
+        "co2e_per_kg": 17.686,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_daging_campur_kentang_hotchpotch": {
+        "co2e_per_kg": 11.582,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "steak_sayuran": {
+        "co2e_per_kg": 1.671,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lumpia_sayuran_makanan_siap_saji": {
+        "co2e_per_kg": 3.193,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_ayam_lumpia": {
+        "co2e_per_kg": 3.12,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lumpia_daging_sapi_siap_saji": {
+        "co2e_per_kg": 5.636,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bakso_kari_dengan_nasi_dan_saus_kari_makanan_siap_saji": {
+        "co2e_per_kg": 2.463,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pai_daun_bawang_dengan_makanan_siap_saji_bacon": {
+        "co2e_per_kg": 1.725,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "croque_monsieur_makanan_siap_saji": {
+        "co2e_per_kg": 1.728,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "caper": {
+        "co2e_per_kg": 0.805,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bayi_jagung": {
+        "co2e_per_kg": 0.565,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_hitam": {
+        "co2e_per_kg": 1.152,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "setengah_buah_persik_dalam_jus": {
+        "co2e_per_kg": 1.51,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "artichoke_yang_diasinkan": {
+        "co2e_per_kg": 3.901,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "cornichon": {
+        "co2e_per_kg": 2.88,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_putih_dalam_minyak": {
+        "co2e_per_kg": 2.215,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "setengah_pir_dalam_jus": {
+        "co2e_per_kg": 1.219,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "paprika_panggang_yang_diasinkan": {
+        "co2e_per_kg": 2.244,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_wijen_tahin": {
+        "co2e_per_kg": 7.783,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tomat_kering": {
+        "co2e_per_kg": 2.654,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "lentil_merah_dikeringkan": {
+        "co2e_per_kg": 3.527,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kenikmatan_ajvar": {
+        "co2e_per_kg": 2.165,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_kacang_vegan": {
+        "co2e_per_kg": 1.959,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_tanaman_protein_kacang_polong_dan_jamur": {
+        "co2e_per_kg": 0.831,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "atasan_keju_cabai": {
+        "co2e_per_kg": 1.546,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "stik_mozarella": {
+        "co2e_per_kg": 1.361,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_siap_saji_cabai_con_carne": {
+        "co2e_per_kg": 28.982,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bola_vegan_berbahan_dasar_kedelai": {
+        "co2e_per_kg": 0.699,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "schnitzels_vegan_berbahan_dasar_kedelai": {
+        "co2e_per_kg": 1.445,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "burger_vegan_berbahan_dasar_kedelai": {
+        "co2e_per_kg": 0.719,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "berbahan_dasar_kacang_polong_cincang_vegan": {
+        "co2e_per_kg": 0.93,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_vegan_berbahan_dasar_kedelai": {
+        "co2e_per_kg": 0.997,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "nugget_vegan_berbahan_dasar_kedelai": {
+        "co2e_per_kg": 1.665,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kacang_tarik_vegan": {
+        "co2e_per_kg": 1,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_babi_yang_ditarik": {
+        "co2e_per_kg": 4.596,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "menarik_daging_sapi": {
+        "co2e_per_kg": 52.806,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "chorizo_\u200b\u200b\u200b\u200bvegan": {
+        "co2e_per_kg": 1.396,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bihun": {
+        "co2e_per_kg": 4.246,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jalape\u00f1os": {
+        "co2e_per_kg": 1.376,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kulit_taco": {
+        "co2e_per_kg": 2.331,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_mangga": {
+        "co2e_per_kg": 2.925,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pasta_kari_hijau": {
+        "co2e_per_kg": 1.522,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "telur_mie": {
+        "co2e_per_kg": 2.084,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "pancake_nasi": {
+        "co2e_per_kg": 4.082,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "oat_es_krim_vegan": {
+        "co2e_per_kg": 2.397,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "mayo_vegan": {
+        "co2e_per_kg": 2.598,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "burger_jamur": {
+        "co2e_per_kg": 1.124,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "potongan_dingin_vegan": {
+        "co2e_per_kg": 2.774,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "blok_vegan": {
+        "co2e_per_kg": 2.644,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "majalah": {
+        "co2e_per_kg": 2.524,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_vegan": {
+        "co2e_per_kg": 0.325,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "potongan_fillet_vegan": {
+        "co2e_per_kg": 1.205,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_cincang_falafel": {
+        "co2e_per_kg": 2.06,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "minuman_kacang_polong": {
+        "co2e_per_kg": 0.699,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jamur_portobello": {
+        "co2e_per_kg": 0.232,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kamut_biji-bijian_makanan": {
+        "co2e_per_kg": 2.254,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "saus_sambal": {
+        "co2e_per_kg": 1.61,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "bawang_merah": {
+        "co2e_per_kg": 0.715,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kemangi_segar": {
+        "co2e_per_kg": 0.368,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kemangi_dikeringkan": {
+        "co2e_per_kg": 2.144,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sup_buttermilk_dingin": {
+        "co2e_per_kg": 0.887,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_rendah_lemak": {
+        "co2e_per_kg": 49.625,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_panggang": {
+        "co2e_per_kg": 2.144,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "jus_apel": {
+        "co2e_per_kg": 1.564,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_domba_cincang": {
+        "co2e_per_kg": 36.955,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_burger": {
+        "co2e_per_kg": 1.454,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_biru": {
+        "co2e_per_kg": 1.361,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_kambing": {
+        "co2e_per_kg": 1.361,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_vegan_diparut_atau_diiris": {
+        "co2e_per_kg": 1.128,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "es_samosa_vegetarian": {
+        "co2e_per_kg": 1.543,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "coklat_dingin": {
+        "co2e_per_kg": 5.365,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "krim_kacang_nutella": {
+        "co2e_per_kg": 5.215,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "smoothie_stroberi_blueberry": {
+        "co2e_per_kg": 1.72,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_babi_rata-rata": {
+        "co2e_per_kg": 4.642,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ayam_rata-rata": {
+        "co2e_per_kg": 3.576,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_sapi_rata-rata": {
+        "co2e_per_kg": 69.927,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "gazpacho": {
+        "co2e_per_kg": 0.707,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "tortilla_de_patata": {
+        "co2e_per_kg": 1.507,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "churro_beku": {
+        "co2e_per_kg": 1.469,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "turron_keras": {
+        "co2e_per_kg": 19.536,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "turron_lembut": {
+        "co2e_per_kg": 20.678,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "kuning_telur_turron": {
+        "co2e_per_kg": 12.148,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "serrano_ham_kering_kering_diiris": {
+        "co2e_per_kg": 15.057,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "irisan_ham_kering_iberia_yang_diawetkan": {
+        "co2e_per_kg": 8.777,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sobrasada": {
+        "co2e_per_kg": 4.141,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "fillet_ikan_teri_dalam_minyak_zaitun": {
+        "co2e_per_kg": 9.343,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salmorejo": {
+        "co2e_per_kg": 1.372,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "makanan_laut_paella_beku": {
+        "co2e_per_kg": 2.32,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "salad_campur_makanan_siap_saji": {
+        "co2e_per_kg": 1.566,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "air_mineral_dalam_kemasan": {
+        "co2e_per_kg": 0.357,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "horchata": {
+        "co2e_per_kg": 1.871,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "croissant": {
+        "co2e_per_kg": 2.155,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_camembert": {
+        "co2e_per_kg": 1.488,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "p\u00e3\u00a2t\u00e3\u00a9": {
+        "co2e_per_kg": 5.436,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "cr\u00e3\u00a8me_br\u00e3\u00bbl\u00e3\u00a9e": {
+        "co2e_per_kg": 1.656,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "cassoulet_kalengan": {
+        "co2e_per_kg": 5.229,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sakit_au_coklat": {
+        "co2e_per_kg": 2.683,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ham_putih": {
+        "co2e_per_kg": 4.369,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "daging_ham_asap": {
+        "co2e_per_kg": 6.53,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_seperti_chipolata": {
+        "co2e_per_kg": 3.904,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sosis_kering": {
+        "co2e_per_kg": 7.111,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "madeleine": {
+        "co2e_per_kg": 4.003,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "baguette": {
+        "co2e_per_kg": 1.58,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "foie_gras_terrine": {
+        "co2e_per_kg": 3.623,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "foie_gras_cru": {
+        "co2e_per_kg": 3.025,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "hagelslag": {
+        "co2e_per_kg": 5.476,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "roti_volkoren": {
+        "co2e_per_kg": 1.421,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "dropjes": {
+        "co2e_per_kg": 2.631,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "speculaas": {
+        "co2e_per_kg": 3.465,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "keju_gouda": {
+        "co2e_per_kg": 6.062,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "sirup_buah": {
+        "co2e_per_kg": 2.515,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "yang_terburuk": {
+        "co2e_per_kg": 2.246,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    },
+    "ikan_haring_di_nl": {
+        "co2e_per_kg": 0.904,
+        "sumber": "The Big Climate Database (CONCITO - Average)"
+    }
+}
